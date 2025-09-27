@@ -1,0 +1,453 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="node" attr.name="character_count" attr.type="long"/>
+<key id="d1" for="node" attr.name="filename" attr.type="string"/>
+<key id="d0" for="node" attr.name="wikipedia_url" attr.type="string"/>
+<graph edgedefault="directed"><node id="Bob Dylan">
+  <data key="d0">https://en.wikipedia.org/wiki/Bob_Dylan</data>
+  <data key="d1">Bob_Dylan.html</data>
+  <data key="d2">37434</data>
+</node>
+<node id="Buddy Holly">
+  <data key="d0">https://en.wikipedia.org/wiki/Buddy_Holly</data>
+  <data key="d1">Buddy_Holly.html</data>
+  <data key="d2">10775</data>
+</node>
+<node id="Cake ">
+  <data key="d0">https://en.wikipedia.org/wiki/Cake_</data>
+  <data key="d1">Cake_(band).html</data>
+  <data key="d2">6491</data>
+</node>
+<node id="Charlie Daniels">
+  <data key="d0">https://en.wikipedia.org/wiki/Charlie_Daniels</data>
+  <data key="d1">Charlie_Daniels.html</data>
+  <data key="d2">6191</data>
+</node>
+<node id="Creedence Clearwater Revival">
+  <data key="d0">https://en.wikipedia.org/wiki/Creedence_Clearwater_Revival</data>
+  <data key="d1">Creedence_Clearwater_Revival.html</data>
+  <data key="d2">8726</data>
+</node>
+<node id="Crosby, Stills, Nash &amp; Young">
+  <data key="d0">https://en.wikipedia.org/wiki/Crosby,_Stills,_Nash_&amp;_Young</data>
+  <data key="d1">Crosby,_Stills,_Nash_&amp;_Young.html</data>
+  <data key="d2">11850</data>
+</node>
+<node id="Dan Fogelberg">
+  <data key="d0">https://en.wikipedia.org/wiki/Dan_Fogelberg</data>
+  <data key="d1">Dan_Fogelberg.html</data>
+  <data key="d2">2610</data>
+</node>
+<node id="Dire Straits">
+  <data key="d0">https://en.wikipedia.org/wiki/Dire_Straits</data>
+  <data key="d1">Dire_Straits.html</data>
+  <data key="d2">10923</data>
+</node>
+<node id="Don Henley">
+  <data key="d0">https://en.wikipedia.org/wiki/Don_Henley</data>
+  <data key="d1">Don_Henley.html</data>
+  <data key="d2">7972</data>
+</node>
+<node id="Duane Eddy">
+  <data key="d0">https://en.wikipedia.org/wiki/Duane_Eddy</data>
+  <data key="d1">Duane_Eddy.html</data>
+  <data key="d2">6082</data>
+</node>
+<node id="Eagles ">
+  <data key="d0">https://en.wikipedia.org/wiki/Eagles_</data>
+  <data key="d1">Eagles_(band).html</data>
+  <data key="d2">12440</data>
+</node>
+<node id="Eddie Cochran">
+  <data key="d0">https://en.wikipedia.org/wiki/Eddie_Cochran</data>
+  <data key="d1">Eddie_Cochran.html</data>
+  <data key="d2">5736</data>
+</node>
+<node id="Elvis Presley">
+  <data key="d0">https://en.wikipedia.org/wiki/Elvis_Presley</data>
+  <data key="d1">Elvis_Presley.html</data>
+  <data key="d2">28945</data>
+</node>
+<node id="Everlast">
+  <data key="d0">https://en.wikipedia.org/wiki/Everlast</data>
+  <data key="d1">Everlast.html</data>
+  <data key="d2">3490</data>
+</node>
+<node id="Gene Vincent">
+  <data key="d0">https://en.wikipedia.org/wiki/Gene_Vincent</data>
+  <data key="d1">Gene_Vincent.html</data>
+  <data key="d2">5551</data>
+</node>
+<node id="Glenn Frey">
+  <data key="d0">https://en.wikipedia.org/wiki/Glenn_Frey</data>
+  <data key="d1">Glenn_Frey.html</data>
+  <data key="d2">5476</data>
+</node>
+<node id="Greta Van Fleet">
+  <data key="d0">https://en.wikipedia.org/wiki/Greta_Van_Fleet</data>
+  <data key="d1">Greta_Van_Fleet.html</data>
+  <data key="d2">5739</data>
+</node>
+<node id="Jackson Browne">
+  <data key="d0">https://en.wikipedia.org/wiki/Jackson_Browne</data>
+  <data key="d1">Jackson_Browne.html</data>
+  <data key="d2">6709</data>
+</node>
+<node id="James Taylor">
+  <data key="d0">https://en.wikipedia.org/wiki/James_Taylor</data>
+  <data key="d1">James_Taylor.html</data>
+  <data key="d2">11859</data>
+</node>
+<node id="Janis Joplin">
+  <data key="d0">https://en.wikipedia.org/wiki/Janis_Joplin</data>
+  <data key="d1">Janis_Joplin.html</data>
+  <data key="d2">16032</data>
+</node>
+<node id="Jerry Lee Lewis">
+  <data key="d0">https://en.wikipedia.org/wiki/Jerry_Lee_Lewis</data>
+  <data key="d1">Jerry_Lee_Lewis.html</data>
+  <data key="d2">11516</data>
+</node>
+<node id="Joe Walsh">
+  <data key="d0">https://en.wikipedia.org/wiki/Joe_Walsh</data>
+  <data key="d1">Joe_Walsh.html</data>
+  <data key="d2">9909</data>
+</node>
+<node id="John Fogerty">
+  <data key="d0">https://en.wikipedia.org/wiki/John_Fogerty</data>
+  <data key="d1">John_Fogerty.html</data>
+  <data key="d2">7150</data>
+</node>
+<node id="John Mayer">
+  <data key="d0">https://en.wikipedia.org/wiki/John_Mayer</data>
+  <data key="d1">John_Mayer.html</data>
+  <data key="d2">18774</data>
+</node>
+<node id="Kenny Loggins">
+  <data key="d0">https://en.wikipedia.org/wiki/Kenny_Loggins</data>
+  <data key="d1">Kenny_Loggins.html</data>
+  <data key="d2">5996</data>
+</node>
+<node id="Kid Rock">
+  <data key="d0">https://en.wikipedia.org/wiki/Kid_Rock</data>
+  <data key="d1">Kid_Rock.html</data>
+  <data key="d2">11267</data>
+</node>
+<node id="Linda Ronstadt">
+  <data key="d0">https://en.wikipedia.org/wiki/Linda_Ronstadt</data>
+  <data key="d1">Linda_Ronstadt.html</data>
+  <data key="d2">22491</data>
+</node>
+<node id="Michael Martin Murphey">
+  <data key="d0">https://en.wikipedia.org/wiki/Michael_Martin_Murphey</data>
+  <data key="d1">Michael_Martin_Murphey.html</data>
+  <data key="d2">5710</data>
+</node>
+<node id="Montgomery Gentry">
+  <data key="d0">https://en.wikipedia.org/wiki/Montgomery_Gentry</data>
+  <data key="d1">Montgomery_Gentry.html</data>
+  <data key="d2">7011</data>
+</node>
+<node id="Mumford &amp; Sons">
+  <data key="d0">https://en.wikipedia.org/wiki/Mumford_&amp;_Sons</data>
+  <data key="d1">Mumford_&amp;_Sons.html</data>
+  <data key="d2">8774</data>
+</node>
+<node id="Neil Young">
+  <data key="d0">https://en.wikipedia.org/wiki/Neil_Young</data>
+  <data key="d1">Neil_Young.html</data>
+  <data key="d2">22628</data>
+</node>
+<node id="Roy Orbison">
+  <data key="d0">https://en.wikipedia.org/wiki/Roy_Orbison</data>
+  <data key="d1">Roy_Orbison.html</data>
+  <data key="d2">15518</data>
+</node>
+<node id="Sheryl Crow">
+  <data key="d0">https://en.wikipedia.org/wiki/Sheryl_Crow</data>
+  <data key="d1">Sheryl_Crow.html</data>
+  <data key="d2">10182</data>
+</node>
+<node id="Stevie Nicks">
+  <data key="d0">https://en.wikipedia.org/wiki/Stevie_Nicks</data>
+  <data key="d1">Stevie_Nicks.html</data>
+  <data key="d2">15553</data>
+</node>
+<node id="The Band">
+  <data key="d0">https://en.wikipedia.org/wiki/The_Band</data>
+  <data key="d1">The_Band.html</data>
+  <data key="d2">10884</data>
+</node>
+<node id="The Byrds">
+  <data key="d0">https://en.wikipedia.org/wiki/The_Byrds</data>
+  <data key="d1">The_Byrds.html</data>
+  <data key="d2">23430</data>
+</node>
+<node id="The Everly Brothers">
+  <data key="d0">https://en.wikipedia.org/wiki/The_Everly_Brothers</data>
+  <data key="d1">The_Everly_Brothers.html</data>
+  <data key="d2">7623</data>
+</node>
+<node id="The Marshall Tucker Band">
+  <data key="d0">https://en.wikipedia.org/wiki/The_Marshall_Tucker_Band</data>
+  <data key="d1">The_Marshall_Tucker_Band.html</data>
+  <data key="d2">4158</data>
+</node>
+<node id="Traveling Wilburys">
+  <data key="d0">https://en.wikipedia.org/wiki/Traveling_Wilburys</data>
+  <data key="d1">Traveling_Wilburys.html</data>
+  <data key="d2">9157</data>
+</node>
+<edge source="Bob Dylan" target="Buddy Holly"/>
+<edge source="Bob Dylan" target="Dire Straits"/>
+<edge source="Bob Dylan" target="Don Henley"/>
+<edge source="Bob Dylan" target="Duane Eddy"/>
+<edge source="Bob Dylan" target="Elvis Presley"/>
+<edge source="Bob Dylan" target="James Taylor"/>
+<edge source="Bob Dylan" target="Janis Joplin"/>
+<edge source="Bob Dylan" target="Jerry Lee Lewis"/>
+<edge source="Bob Dylan" target="Linda Ronstadt"/>
+<edge source="Bob Dylan" target="Neil Young"/>
+<edge source="Bob Dylan" target="Roy Orbison"/>
+<edge source="Bob Dylan" target="The Band"/>
+<edge source="Bob Dylan" target="The Byrds"/>
+<edge source="Bob Dylan" target="The Everly Brothers"/>
+<edge source="Bob Dylan" target="Traveling Wilburys"/>
+<edge source="Buddy Holly" target="Bob Dylan"/>
+<edge source="Buddy Holly" target="Elvis Presley"/>
+<edge source="Buddy Holly" target="Jerry Lee Lewis"/>
+<edge source="Buddy Holly" target="The Everly Brothers"/>
+<edge source="Cake " target="Buddy Holly"/>
+<edge source="Charlie Daniels" target="Bob Dylan"/>
+<edge source="Charlie Daniels" target="Elvis Presley"/>
+<edge source="Charlie Daniels" target="The Everly Brothers"/>
+<edge source="Charlie Daniels" target="The Marshall Tucker Band"/>
+<edge source="Creedence Clearwater Revival" target="Bob Dylan"/>
+<edge source="Creedence Clearwater Revival" target="Elvis Presley"/>
+<edge source="Creedence Clearwater Revival" target="Janis Joplin"/>
+<edge source="Creedence Clearwater Revival" target="John Fogerty"/>
+<edge source="Creedence Clearwater Revival" target="Roy Orbison"/>
+<edge source="Creedence Clearwater Revival" target="The Band"/>
+<edge source="Crosby, Stills, Nash &amp; Young" target="Bob Dylan"/>
+<edge source="Crosby, Stills, Nash &amp; Young" target="Creedence Clearwater Revival"/>
+<edge source="Crosby, Stills, Nash &amp; Young" target="Jackson Browne"/>
+<edge source="Crosby, Stills, Nash &amp; Young" target="James Taylor"/>
+<edge source="Crosby, Stills, Nash &amp; Young" target="Janis Joplin"/>
+<edge source="Crosby, Stills, Nash &amp; Young" target="Neil Young"/>
+<edge source="Crosby, Stills, Nash &amp; Young" target="Sheryl Crow"/>
+<edge source="Crosby, Stills, Nash &amp; Young" target="The Band"/>
+<edge source="Crosby, Stills, Nash &amp; Young" target="The Byrds"/>
+<edge source="Dan Fogelberg" target="Joe Walsh"/>
+<edge source="Dire Straits" target="Bob Dylan"/>
+<edge source="Dire Straits" target="Don Henley"/>
+<edge source="Dire Straits" target="Everlast"/>
+<edge source="Dire Straits" target="Neil Young"/>
+<edge source="Dire Straits" target="Traveling Wilburys"/>
+<edge source="Don Henley" target="Bob Dylan"/>
+<edge source="Don Henley" target="Dire Straits"/>
+<edge source="Don Henley" target="Gene Vincent"/>
+<edge source="Don Henley" target="Glenn Frey"/>
+<edge source="Don Henley" target="Jackson Browne"/>
+<edge source="Don Henley" target="James Taylor"/>
+<edge source="Don Henley" target="Joe Walsh"/>
+<edge source="Don Henley" target="John Fogerty"/>
+<edge source="Don Henley" target="Linda Ronstadt"/>
+<edge source="Don Henley" target="Neil Young"/>
+<edge source="Don Henley" target="Sheryl Crow"/>
+<edge source="Don Henley" target="Stevie Nicks"/>
+<edge source="Duane Eddy" target="Bob Dylan"/>
+<edge source="Duane Eddy" target="Elvis Presley"/>
+<edge source="Duane Eddy" target="John Fogerty"/>
+<edge source="Duane Eddy" target="The Band"/>
+<edge source="Eagles " target="Dan Fogelberg"/>
+<edge source="Eagles " target="Dire Straits"/>
+<edge source="Eagles " target="Don Henley"/>
+<edge source="Eagles " target="Everlast"/>
+<edge source="Eagles " target="Gene Vincent"/>
+<edge source="Eagles " target="Glenn Frey"/>
+<edge source="Eagles " target="Jackson Browne"/>
+<edge source="Eagles " target="James Taylor"/>
+<edge source="Eagles " target="Joe Walsh"/>
+<edge source="Eagles " target="Linda Ronstadt"/>
+<edge source="Eagles " target="Sheryl Crow"/>
+<edge source="Eagles " target="Stevie Nicks"/>
+<edge source="Eagles " target="The Byrds"/>
+<edge source="Eagles " target="Traveling Wilburys"/>
+<edge source="Eddie Cochran" target="Buddy Holly"/>
+<edge source="Eddie Cochran" target="Elvis Presley"/>
+<edge source="Eddie Cochran" target="Gene Vincent"/>
+<edge source="Eddie Cochran" target="Roy Orbison"/>
+<edge source="Eddie Cochran" target="The Everly Brothers"/>
+<edge source="Elvis Presley" target="Bob Dylan"/>
+<edge source="Elvis Presley" target="Buddy Holly"/>
+<edge source="Elvis Presley" target="Janis Joplin"/>
+<edge source="Elvis Presley" target="Jerry Lee Lewis"/>
+<edge source="Elvis Presley" target="Linda Ronstadt"/>
+<edge source="Elvis Presley" target="Roy Orbison"/>
+<edge source="Elvis Presley" target="The Band"/>
+<edge source="Elvis Presley" target="The Everly Brothers"/>
+<edge source="Everlast" target="Bob Dylan"/>
+<edge source="Everlast" target="Dire Straits"/>
+<edge source="Everlast" target="Neil Young"/>
+<edge source="Everlast" target="Traveling Wilburys"/>
+<edge source="Gene Vincent" target="Don Henley"/>
+<edge source="Gene Vincent" target="Duane Eddy"/>
+<edge source="Gene Vincent" target="Eddie Cochran"/>
+<edge source="Gene Vincent" target="Elvis Presley"/>
+<edge source="Gene Vincent" target="Glenn Frey"/>
+<edge source="Gene Vincent" target="Joe Walsh"/>
+<edge source="Gene Vincent" target="Linda Ronstadt"/>
+<edge source="Gene Vincent" target="Stevie Nicks"/>
+<edge source="Gene Vincent" target="The Byrds"/>
+<edge source="Glenn Frey" target="Don Henley"/>
+<edge source="Glenn Frey" target="Gene Vincent"/>
+<edge source="Glenn Frey" target="Jackson Browne"/>
+<edge source="Glenn Frey" target="Joe Walsh"/>
+<edge source="Glenn Frey" target="Linda Ronstadt"/>
+<edge source="Glenn Frey" target="Sheryl Crow"/>
+<edge source="Glenn Frey" target="Stevie Nicks"/>
+<edge source="Greta Van Fleet" target="John Fogerty"/>
+<edge source="Greta Van Fleet" target="Sheryl Crow"/>
+<edge source="Jackson Browne" target="Don Henley"/>
+<edge source="Jackson Browne" target="Glenn Frey"/>
+<edge source="Jackson Browne" target="James Taylor"/>
+<edge source="Jackson Browne" target="Linda Ronstadt"/>
+<edge source="Jackson Browne" target="Neil Young"/>
+<edge source="Jackson Browne" target="Roy Orbison"/>
+<edge source="Jackson Browne" target="The Byrds"/>
+<edge source="James Taylor" target="Bob Dylan"/>
+<edge source="James Taylor" target="Buddy Holly"/>
+<edge source="James Taylor" target="Don Henley"/>
+<edge source="James Taylor" target="Jackson Browne"/>
+<edge source="James Taylor" target="John Mayer"/>
+<edge source="James Taylor" target="Kenny Loggins"/>
+<edge source="James Taylor" target="Linda Ronstadt"/>
+<edge source="James Taylor" target="Neil Young"/>
+<edge source="James Taylor" target="Roy Orbison"/>
+<edge source="James Taylor" target="Sheryl Crow"/>
+<edge source="Janis Joplin" target="Bob Dylan"/>
+<edge source="Janis Joplin" target="Buddy Holly"/>
+<edge source="Janis Joplin" target="Creedence Clearwater Revival"/>
+<edge source="Janis Joplin" target="Elvis Presley"/>
+<edge source="Janis Joplin" target="Jerry Lee Lewis"/>
+<edge source="Janis Joplin" target="Linda Ronstadt"/>
+<edge source="Janis Joplin" target="Neil Young"/>
+<edge source="Janis Joplin" target="Roy Orbison"/>
+<edge source="Janis Joplin" target="The Band"/>
+<edge source="Janis Joplin" target="The Everly Brothers"/>
+<edge source="Jerry Lee Lewis" target="Buddy Holly"/>
+<edge source="Jerry Lee Lewis" target="Elvis Presley"/>
+<edge source="Jerry Lee Lewis" target="Joe Walsh"/>
+<edge source="Jerry Lee Lewis" target="John Fogerty"/>
+<edge source="Jerry Lee Lewis" target="Roy Orbison"/>
+<edge source="Jerry Lee Lewis" target="The Everly Brothers"/>
+<edge source="Joe Walsh" target="Dan Fogelberg"/>
+<edge source="Joe Walsh" target="Don Henley"/>
+<edge source="Joe Walsh" target="Gene Vincent"/>
+<edge source="Joe Walsh" target="Glenn Frey"/>
+<edge source="Joe Walsh" target="Jackson Browne"/>
+<edge source="Joe Walsh" target="Linda Ronstadt"/>
+<edge source="Joe Walsh" target="Roy Orbison"/>
+<edge source="Joe Walsh" target="Sheryl Crow"/>
+<edge source="Joe Walsh" target="Stevie Nicks"/>
+<edge source="John Fogerty" target="Creedence Clearwater Revival"/>
+<edge source="John Fogerty" target="Don Henley"/>
+<edge source="John Fogerty" target="Greta Van Fleet"/>
+<edge source="John Fogerty" target="Jerry Lee Lewis"/>
+<edge source="John Fogerty" target="Sheryl Crow"/>
+<edge source="John Mayer" target="James Taylor"/>
+<edge source="John Mayer" target="Kenny Loggins"/>
+<edge source="John Mayer" target="Roy Orbison"/>
+<edge source="John Mayer" target="Sheryl Crow"/>
+<edge source="Kenny Loggins" target="James Taylor"/>
+<edge source="Kenny Loggins" target="John Mayer"/>
+<edge source="Kenny Loggins" target="Roy Orbison"/>
+<edge source="Kenny Loggins" target="Stevie Nicks"/>
+<edge source="Kid Rock" target="Sheryl Crow"/>
+<edge source="Kid Rock" target="The Marshall Tucker Band"/>
+<edge source="Linda Ronstadt" target="Bob Dylan"/>
+<edge source="Linda Ronstadt" target="Buddy Holly"/>
+<edge source="Linda Ronstadt" target="Don Henley"/>
+<edge source="Linda Ronstadt" target="Glenn Frey"/>
+<edge source="Linda Ronstadt" target="Jackson Browne"/>
+<edge source="Linda Ronstadt" target="James Taylor"/>
+<edge source="Linda Ronstadt" target="Janis Joplin"/>
+<edge source="Linda Ronstadt" target="Neil Young"/>
+<edge source="Linda Ronstadt" target="Roy Orbison"/>
+<edge source="Linda Ronstadt" target="Sheryl Crow"/>
+<edge source="Linda Ronstadt" target="Stevie Nicks"/>
+<edge source="Linda Ronstadt" target="The Byrds"/>
+<edge source="Michael Martin Murphey" target="Bob Dylan"/>
+<edge source="Michael Martin Murphey" target="Charlie Daniels"/>
+<edge source="Michael Martin Murphey" target="Dan Fogelberg"/>
+<edge source="Montgomery Gentry" target="Charlie Daniels"/>
+<edge source="Montgomery Gentry" target="The Everly Brothers"/>
+<edge source="Mumford &amp; Sons" target="Bob Dylan"/>
+<edge source="Mumford &amp; Sons" target="Dire Straits"/>
+<edge source="Mumford &amp; Sons" target="Janis Joplin"/>
+<edge source="Mumford &amp; Sons" target="Linda Ronstadt"/>
+<edge source="Mumford &amp; Sons" target="The Band"/>
+<edge source="Neil Young" target="Bob Dylan"/>
+<edge source="Neil Young" target="Dire Straits"/>
+<edge source="Neil Young" target="Don Henley"/>
+<edge source="Neil Young" target="Elvis Presley"/>
+<edge source="Neil Young" target="James Taylor"/>
+<edge source="Neil Young" target="Janis Joplin"/>
+<edge source="Neil Young" target="Jerry Lee Lewis"/>
+<edge source="Neil Young" target="Linda Ronstadt"/>
+<edge source="Neil Young" target="Roy Orbison"/>
+<edge source="Neil Young" target="The Band"/>
+<edge source="Neil Young" target="The Byrds"/>
+<edge source="Roy Orbison" target="Bob Dylan"/>
+<edge source="Roy Orbison" target="Duane Eddy"/>
+<edge source="Roy Orbison" target="Eddie Cochran"/>
+<edge source="Roy Orbison" target="Elvis Presley"/>
+<edge source="Roy Orbison" target="Jackson Browne"/>
+<edge source="Roy Orbison" target="James Taylor"/>
+<edge source="Roy Orbison" target="Jerry Lee Lewis"/>
+<edge source="Roy Orbison" target="John Mayer"/>
+<edge source="Roy Orbison" target="Kenny Loggins"/>
+<edge source="Roy Orbison" target="Linda Ronstadt"/>
+<edge source="Roy Orbison" target="The Everly Brothers"/>
+<edge source="Roy Orbison" target="Traveling Wilburys"/>
+<edge source="Sheryl Crow" target="Don Henley"/>
+<edge source="Sheryl Crow" target="Greta Van Fleet"/>
+<edge source="Sheryl Crow" target="Joe Walsh"/>
+<edge source="Sheryl Crow" target="John Fogerty"/>
+<edge source="Sheryl Crow" target="Kenny Loggins"/>
+<edge source="Sheryl Crow" target="Kid Rock"/>
+<edge source="Sheryl Crow" target="Linda Ronstadt"/>
+<edge source="Sheryl Crow" target="Stevie Nicks"/>
+<edge source="Stevie Nicks" target="Bob Dylan"/>
+<edge source="Stevie Nicks" target="Buddy Holly"/>
+<edge source="Stevie Nicks" target="Don Henley"/>
+<edge source="Stevie Nicks" target="Gene Vincent"/>
+<edge source="Stevie Nicks" target="Glenn Frey"/>
+<edge source="Stevie Nicks" target="Janis Joplin"/>
+<edge source="Stevie Nicks" target="Joe Walsh"/>
+<edge source="Stevie Nicks" target="Kenny Loggins"/>
+<edge source="Stevie Nicks" target="Sheryl Crow"/>
+<edge source="Stevie Nicks" target="The Everly Brothers"/>
+<edge source="The Band" target="Bob Dylan"/>
+<edge source="The Band" target="Creedence Clearwater Revival"/>
+<edge source="The Band" target="Duane Eddy"/>
+<edge source="The Band" target="Janis Joplin"/>
+<edge source="The Band" target="Neil Young"/>
+<edge source="The Band" target="The Byrds"/>
+<edge source="The Byrds" target="Bob Dylan"/>
+<edge source="The Byrds" target="Neil Young"/>
+<edge source="The Byrds" target="Roy Orbison"/>
+<edge source="The Everly Brothers" target="Buddy Holly"/>
+<edge source="The Everly Brothers" target="Charlie Daniels"/>
+<edge source="The Everly Brothers" target="Dire Straits"/>
+<edge source="The Everly Brothers" target="Elvis Presley"/>
+<edge source="The Everly Brothers" target="Jerry Lee Lewis"/>
+<edge source="The Everly Brothers" target="Linda Ronstadt"/>
+<edge source="The Everly Brothers" target="Neil Young"/>
+<edge source="The Marshall Tucker Band" target="Charlie Daniels"/>
+<edge source="Traveling Wilburys" target="Bob Dylan"/>
+<edge source="Traveling Wilburys" target="Dire Straits"/>
+<edge source="Traveling Wilburys" target="Duane Eddy"/>
+<edge source="Traveling Wilburys" target="Everlast"/>
+<edge source="Traveling Wilburys" target="Roy Orbison"/>
+<edge source="Traveling Wilburys" target="The Band"/>
+</graph></graphml>
