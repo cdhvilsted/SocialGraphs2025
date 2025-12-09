@@ -1,0 +1,2507 @@
+{
+    "Sondergaard": {
+        "followers": 6732,
+        "genres": "dansk rap, dansk pop",
+        "link": "https://open.spotify.com/artist/059d96CtYS9700ezKQWsFz"
+    },
+    "Denmark": {
+        "followers": 84,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/3SDiVGkWtK3jJcCjL1kBjW"
+    },
+    "Sir T From Denmark": {
+        "followers": 392,
+        "genres": "dansk rap, dansktop",
+        "link": "https://open.spotify.com/artist/4RqESlC3yVO3J5wuMCuIGg"
+    },
+    "Annika": {
+        "followers": 77666,
+        "genres": "dansk pop, dansktop, dansk rap",
+        "link": "https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg"
+    },
+    "Denmark Vessey": {
+        "followers": 12216,
+        "genres": "jazz rap",
+        "link": "https://open.spotify.com/artist/6o8VpmZLTJZfFUQhKCDYoZ"
+    },
+    "South Denmark Girls Choir": {
+        "followers": 5,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/6UyytlPVzvNK3J46DGcv0s"
+    },
+    "Denmark + Winter": {
+        "followers": 16179,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/3iieFb3WOWJ8tW57Gixt8y"
+    },
+    "Andy Ry Denmark": {
+        "followers": 30,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/6tCCxQEAIzZZ8uuQ2Zct76"
+    },
+    "D1MA": {
+        "followers": 62156,
+        "genres": "dansk rap, dansk pop, dansktop",
+        "link": "https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut"
+    },
+    "Saveus": {
+        "followers": 43038,
+        "genres": "dansk pop, dansk rap, dansktop",
+        "link": "https://open.spotify.com/artist/2rR0cafJvL0JVTC8E2qIqt"
+    },
+    "APHACA": {
+        "followers": 66934,
+        "genres": "dansk pop, dansktop",
+        "link": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
+    },
+    "Kundo": {
+        "followers": 20513,
+        "genres": "dansk rap, dansktop, dansk pop",
+        "link": "https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr"
+    },
+    "Suspekt": {
+        "followers": 137290,
+        "genres": "dansk rap, dansk pop, dansktop",
+        "link": "https://open.spotify.com/artist/74HomvqoUecDcUPRespyqg"
+    },
+    "Tobias Rahim": {
+        "followers": 148834,
+        "genres": "dansk pop, dansk rap, dansktop",
+        "link": "https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB"
+    },
+    "Medina": {
+        "followers": 243564,
+        "genres": "dansk pop, dansktop",
+        "link": "https://open.spotify.com/artist/7c7ZeiPKWHf2E1rsf1P4VF"
+    },
+    "Mumle": {
+        "followers": 34043,
+        "genres": "dansk pop, dansktop",
+        "link": "https://open.spotify.com/artist/6xfKNngTw1zxViM96HSTCq"
+    },
+    "Mille": {
+        "followers": 18883,
+        "genres": "dansk pop, dansktop",
+        "link": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
+    },
+    "Blæst": {
+        "followers": 35371,
+        "genres": "dansk pop, dansktop",
+        "link": "https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5"
+    },
+    "URO": {
+        "followers": 25730,
+        "genres": "dansk pop, dansktop, dansk rap",
+        "link": "https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD"
+    },
+    "Pil": {
+        "followers": 29092,
+        "genres": "dansk pop, dansktop",
+        "link": "https://open.spotify.com/artist/3vSX14E4YqHrx8nyXeOVen"
+    },
+    "MAS": {
+        "followers": 25906,
+        "genres": "dansk rap, dansktop, dansk pop",
+        "link": "https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72"
+    },
+    "KESI": {
+        "followers": 221199,
+        "genres": "dansk rap, dansktop, dansk pop",
+        "link": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
+    },
+    "Gilli": {
+        "followers": 338550,
+        "genres": "dansk rap, dansk pop, dansktop",
+        "link": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+    },
+    "Nik & Jay": {
+        "followers": 203731,
+        "genres": "dansk pop, dansk rap, dansktop",
+        "link": "https://open.spotify.com/artist/71k6SmcYKiIPq8M2RxK2Jr"
+    },
+    "KÅ": {
+        "followers": 1309,
+        "genres": "dansk rap, dansk pop, dansktop",
+        "link": "https://open.spotify.com/artist/2m3GQ7TP7bEbIvUYhRhvXs"
+    },
+    "Lamin": {
+        "followers": 103635,
+        "genres": "dansk rap, dansktop, dansk pop",
+        "link": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
+    },
+    "FOOL": {
+        "followers": 13337,
+        "genres": "dansk pop",
+        "link": "https://open.spotify.com/artist/784M9lpFRKOqY5C0GUY9Uw"
+    },
+    "Rasmus Seebach": {
+        "followers": 502297,
+        "genres": "dansk pop, dansktop",
+        "link": "https://open.spotify.com/artist/0yqCOSZ1i0c49UUbE8AzbQ"
+    },
+    "Benny Jamz": {
+        "followers": 95804,
+        "genres": "dansk rap, dansktop, dansk pop",
+        "link": "https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD"
+    },
+    "Iris Gold": {
+        "followers": 5365,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/6DyxyAiluuZ008t0ITLwOI"
+    },
+    "Joey Moe": {
+        "followers": 167114,
+        "genres": "dansk pop, dansk rap",
+        "link": "https://open.spotify.com/artist/0XuMowqsbFr0TmhOHfmWuc"
+    },
+    "Mikael Simpson": {
+        "followers": 11741,
+        "genres": "dansk pop, dansktop",
+        "link": "https://open.spotify.com/artist/0m0udc0jvvBGmwdieH5su5"
+    },
+    "Søren Huss": {
+        "followers": 32386,
+        "genres": "dansk pop, dansktop",
+        "link": "https://open.spotify.com/artist/4c5YsU2iQX3LvAKdPa0A8P"
+    },
+    "Djämes Braun": {
+        "followers": 48473,
+        "genres": "dansk pop, dansk rap",
+        "link": "https://open.spotify.com/artist/3kI2qtr3zCuB4YbDl5yvkh"
+    },
+    "Gobs": {
+        "followers": 74544,
+        "genres": "dansk rap, dansk pop, dansktop",
+        "link": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
+    },
+    "Tessa": {
+        "followers": 111977,
+        "genres": "dansk rap, dansk pop",
+        "link": "https://open.spotify.com/artist/3pJK3CUpbnyX7ogDfAwa9J"
+    },
+    "Katrine Muff": {
+        "followers": 802,
+        "genres": "dansk pop",
+        "link": "https://open.spotify.com/artist/3PbcWHoYFs29O0Kg2uuAFM"
+    },
+    "Svaneborg Kardyb": {
+        "followers": 44839,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/2aGCFk3Mvhs9Am7JHwoyRr"
+    },
+    "Alias": {
+        "followers": 322,
+        "genres": "dansk rap",
+        "link": "https://open.spotify.com/artist/2QFI5OnFArsSFYYGLfK9RS"
+    },
+    "PAY": {
+        "followers": 14231,
+        "genres": "dansk rap, dansk pop",
+        "link": "https://open.spotify.com/artist/3WreFZLJqFGK3VJbxYewaU"
+    },
+    "HAM fra Syd": {
+        "followers": 7997,
+        "genres": "dansk rap",
+        "link": "https://open.spotify.com/artist/142bVo1OspxTJbxwyawU5h"
+    },
+    "Nikolaj Steen": {
+        "followers": 1370,
+        "genres": "christmas",
+        "link": "https://open.spotify.com/artist/5gOouNiZNWffM1F24JEBAd"
+    },
+    "Hadi": {
+        "followers": 4004,
+        "genres": "dansk rap",
+        "link": "https://open.spotify.com/artist/0B8EmxrRwwZwgQr219wMXg"
+    },
+    "MDMarius": {
+        "followers": 4302,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/4DMYXcsMA3WWQo70gymjJ7"
+    },
+    "Mimi": {
+        "followers": 1071,
+        "genres": "moombahton",
+        "link": "https://open.spotify.com/artist/1rrWWdXGvdF9bD8VDwvbBC"
+    },
+    "Københavns Drengekor": {
+        "followers": 478,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/0FLzDx2yiAnNlIURieVIQ2"
+    },
+    "warming.": {
+        "followers": 93,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/63kEB9OtwZojpAV1B4TvUn"
+    },
+    "Nephew": {
+        "followers": 101172,
+        "genres": "dansk pop, dansktop, dansk rap",
+        "link": "https://open.spotify.com/artist/11BUDylkl50Y6dsbZMZiCG"
+    },
+    "Danish National Symphony Orchestra": {
+        "followers": 36917,
+        "genres": "orchestral",
+        "link": "https://open.spotify.com/artist/6kClxEibflIbA231B95OYX"
+    },
+    "Kongerne Af Næstved": {
+        "followers": 2507,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/2m2aMoA3BH1PxqcnJfWU5J"
+    },
+    "T!sse L0rtep1k": {
+        "followers": 4708,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/6GfDIh7PChUS4OoNyXRgd3"
+    },
+    "Danish String Quartet": {
+        "followers": 22929,
+        "genres": "chamber music, classical",
+        "link": "https://open.spotify.com/artist/7dkujWxvEqOlFAo979V68D"
+    },
+    "The Danish Radio Big Band": {
+        "followers": 4243,
+        "genres": "big band, vocal jazz",
+        "link": "https://open.spotify.com/artist/7ztGJv7tQJ33cm44UcNGoE"
+    },
+    "Danish": {
+        "followers": 704,
+        "genres": "hindi hip hop, desi hip hop, qawwali",
+        "link": "https://open.spotify.com/artist/11BYfb0mS5YljUKdn8P5Zk"
+    },
+    "Benjamin Hav": {
+        "followers": 51499,
+        "genres": "dansk rap, dansk pop, dansktop",
+        "link": "https://open.spotify.com/artist/67pwWZtcg7U2P2keoeC9jW"
+    },
+    "Artigeardit": {
+        "followers": 121197,
+        "genres": "dansk rap, dansktop, dansk pop",
+        "link": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
+    },
+    "Hans Philip": {
+        "followers": 55867,
+        "genres": "dansktop, dansk pop, dansk rap",
+        "link": "https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C"
+    },
+    "Burhan G": {
+        "followers": 119733,
+        "genres": "dansk pop, dansktop",
+        "link": "https://open.spotify.com/artist/14nVYgOiwVBJIEATXIDYC8"
+    },
+    "Ankerstjerne": {
+        "followers": 77643,
+        "genres": "dansk pop, dansk rap, dansktop",
+        "link": "https://open.spotify.com/artist/7JoViNQIqOIaxcBswboN5d"
+    },
+    "Guldimund": {
+        "followers": 29728,
+        "genres": "dansk pop, dansktop",
+        "link": "https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw"
+    },
+    "Ukendt Kunstner": {
+        "followers": 111079,
+        "genres": "dansk rap, dansktop, dansk pop",
+        "link": "https://open.spotify.com/artist/1d5Y2zrhRQ6R0plv652L67"
+    },
+    "Anton Westerlin": {
+        "followers": 24240,
+        "genres": "dansk rap, dansktop, dansk pop",
+        "link": "https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T"
+    },
+    "ozzy": {
+        "followers": 15847,
+        "genres": "dansk rap, dansktop, dansk pop",
+        "link": "https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9"
+    },
+    "Noah Carter": {
+        "followers": 53723,
+        "genres": "dansk rap, dansktop, dansk pop",
+        "link": "https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp"
+    },
+    "Cizzo": {
+        "followers": 10773,
+        "genres": "dansk rap, dansk pop",
+        "link": "https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP"
+    },
+    "Shu-Bi-Dua": {
+        "followers": 108864,
+        "genres": "dansktop, dansk pop",
+        "link": "https://open.spotify.com/artist/6Y99TxJKt19wJFbmpoRzLp"
+    },
+    "Branco": {
+        "followers": 90289,
+        "genres": "dansk rap, dansk pop, dansktop",
+        "link": "https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6"
+    },
+    "Minisjang": {
+        "followers": 7828,
+        "genres": "children's music",
+        "link": "https://open.spotify.com/artist/10DtTG6LrhnSls0dHShtTO"
+    },
+    "Ramasjang": {
+        "followers": 3694,
+        "genres": "children's music",
+        "link": "https://open.spotify.com/artist/55KsM8lOlVwOS1LWkIzuax"
+    },
+    "Emil Kruse": {
+        "followers": 12334,
+        "genres": "dansk pop, dansk rap, dansktop",
+        "link": "https://open.spotify.com/artist/4WnhWF0prnUJ7sHHi5Aoun"
+    },
+    "OK OK": {
+        "followers": 136,
+        "genres": "dansk pop, dansk rap, dansktop",
+        "link": "https://open.spotify.com/artist/0h4efFgEzH6VH5DP5Yqtqt"
+    },
+    "Anthon Edwards": {
+        "followers": 3657,
+        "genres": "dansk pop, dansktop, dansk rap",
+        "link": "https://open.spotify.com/artist/3CARGGRdALf2e9oj7bzFti"
+    },
+    "Copenhagen untd.": {
+        "followers": 2204,
+        "genres": "jazz house",
+        "link": "https://open.spotify.com/artist/4kOHVYMZUnNasTU8eKJpme"
+    },
+    "Copenhagen Strings": {
+        "followers": 45,
+        "genres": "chamber music",
+        "link": "https://open.spotify.com/artist/5hcCu35yKMQHEqHDKIU86x"
+    },
+    "Copenhagen Phil": {
+        "followers": 648,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/5eXrd04vgoNHbdZs5ZTPb6"
+    },
+    "Copenhagen Clarinet Choir": {
+        "followers": 168,
+        "genres": "drone",
+        "link": "https://open.spotify.com/artist/2tKLOmBrwexYI66GUrW4lf"
+    },
+    "Tom Odell": {
+        "followers": 4337445,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+    },
+    "Love Shop": {
+        "followers": 13739,
+        "genres": "dansk pop, dansktop",
+        "link": "https://open.spotify.com/artist/0TQxEWVkw6POxo7OtLSVHl"
+    },
+    "Christopher": {
+        "followers": 492385,
+        "genres": "dansk pop",
+        "link": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
+    },
+    "Copenhagen Blues Band": {
+        "followers": 63,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/0Yd6iOaRlsLGTbaSUESlvV"
+    },
+    "Copenhagen Drummers": {
+        "followers": 1515,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/2tiBeQFVyhyp02KvFDKcd6"
+    },
+    "Copenhagen Collective": {
+        "followers": 181,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/1Sgug4TY8kxWz9rtebe9o8"
+    },
+    "Copenhagen Jazzexperience": {
+        "followers": 3099,
+        "genres": "jazz",
+        "link": "https://open.spotify.com/artist/4JEWCpMIrw4HJgsAlkblBo"
+    },
+    "Copenhagen Slim": {
+        "followers": 12,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/7LLJYqx3eNy8y7iKE8HrCq"
+    },
+    "Safri Duo": {
+        "followers": 195806,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl"
+    },
+    "Copenhagen Girls Choir": {
+        "followers": 1,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/19mzIm3GQ1FOtoT7bYNu7J"
+    },
+    "Concerto Copenhagen": {
+        "followers": 2029,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/3bAYWBSC170iRoa7KEJu5p"
+    },
+    "Copenhagen Gay Choir": {
+        "followers": 1,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/1jFeQ84O0HQcX5aMr1B9wz"
+    },
+    "Copenhagen Philharmonic Orchestra": {
+        "followers": 262,
+        "genres": "classical",
+        "link": "https://open.spotify.com/artist/6ztrxKrCTaL6HstRYbYioB"
+    },
+    "F.C. Copenhagen FanChants": {
+        "followers": 635,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/76wky1jzlPQ1DY9emcaAI5"
+    },
+    "Copenhagen Cluster F***": {
+        "followers": 0,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/565BB97m8Wibz5hrBvt6aY"
+    },
+    "Brandon Beal": {
+        "followers": 40044,
+        "genres": "dansk pop",
+        "link": "https://open.spotify.com/artist/7p2aOXY5bfHyjujI3fCWTu"
+    },
+    "Ars Nova Copenhagen": {
+        "followers": 3525,
+        "genres": "choral, minimalism",
+        "link": "https://open.spotify.com/artist/4E28cbB6innZWYKgu2E5of"
+    },
+    "Copenhagen University Choir Lille MUKO": {
+        "followers": 385,
+        "genres": "choral",
+        "link": "https://open.spotify.com/artist/27skbSVOxgY9bWiCEemgZG"
+    },
+    "Copenhagen Philharmonic": {
+        "followers": 50,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/7L1rMm4qj11lu0CBeL6D9o"
+    },
+    "Trio con Brio Copenhagen": {
+        "followers": 916,
+        "genres": "chamber music",
+        "link": "https://open.spotify.com/artist/5JrJyLCa97gzshLwIurxdk"
+    },
+    "Copenhagen Royal Chapel Choir": {
+        "followers": 63,
+        "genres": "choral",
+        "link": "https://open.spotify.com/artist/0gHcdviQDOfJfmqOcXopI6"
+    },
+    "Copenhagen University Choir": {
+        "followers": 18,
+        "genres": "choral",
+        "link": "https://open.spotify.com/artist/2bWORDDZdJDCru896oGgTF"
+    },
+    "Copenhagen Collaboration": {
+        "followers": 72,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/1lWbfYsYDJdI7J7BUC07No"
+    },
+    "Copenhagen Philharmonic Orchestra/Ole Schmidt": {
+        "followers": 10,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/1pldS23jfny0JulJ3RfJLN"
+    },
+    "L.O.C.": {
+        "followers": 214425,
+        "genres": "dansk rap, dansk pop, dansktop",
+        "link": "https://open.spotify.com/artist/0VUVvNFIyMeIWguwhhImIc"
+    },
+    "Thomas Helmig": {
+        "followers": 97947,
+        "genres": "dansk pop, dansktop",
+        "link": "https://open.spotify.com/artist/2ytaRjGwyS3veZwsmr0SPj"
+    },
+    "Aarhus Jazz Orchestra": {
+        "followers": 1423,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/1VdLMRDzrV0JtFSOnk2em6"
+    },
+    "Aarhus Teater": {
+        "followers": 43,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/49SrvLSdrMLw9HCH2ocnMi"
+    },
+    "Johnson": {
+        "followers": 22730,
+        "genres": "dansk rap, dansk pop, dansktop",
+        "link": "https://open.spotify.com/artist/4w1fUgGXRGXhhnTAxjtxfS"
+    },
+    "Aarhus Pigekor": {
+        "followers": 108,
+        "genres": "choral",
+        "link": "https://open.spotify.com/artist/3N20BfJ9UgTyknMHyqaHuv"
+    },
+    "Marwan": {
+        "followers": 10919,
+        "genres": "dansk rap, dansktop",
+        "link": "https://open.spotify.com/artist/485qSJLm5xb3tWRG9N7O4h"
+    },
+    "Youth Choir Aarhus U": {
+        "followers": 188,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/6DZ49eoO1NOXBxFYxDgzfN"
+    },
+    "Aarhus Gospel Singers": {
+        "followers": 74,
+        "genres": "gospel",
+        "link": "https://open.spotify.com/artist/0EQS4vCKHeYcOx6L4lVYUl"
+    },
+    "Århus Teater": {
+        "followers": 213,
+        "genres": "children's music",
+        "link": "https://open.spotify.com/artist/2Xet304c3DqvwHSxVn3TVv"
+    },
+    "Gnags": {
+        "followers": 43802,
+        "genres": "dansk pop, dansktop",
+        "link": "https://open.spotify.com/artist/460C51GopZ9kmWvz3Z0649"
+    },
+    "Aarhus Ishus": {
+        "followers": 11,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/4REr7MVuRebG6TJnfftYCY"
+    },
+    "Akademisk Kor Århus": {
+        "followers": 350,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/1LCEW8JhGsAEZW7IE9JXVF"
+    },
+    "Aarhus Symphony Orchestra": {
+        "followers": 630,
+        "genres": "opera, orchestral",
+        "link": "https://open.spotify.com/artist/4QoYs1xbIdbgAV3wgDGzqM"
+    },
+    "Aarhus Universitetskor": {
+        "followers": 7,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/3vgzivH6AGVwpYhxkodtKn"
+    },
+    "Aarhus": {
+        "followers": 8,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/32KaIucXYGHGKCcoCWsnnq"
+    },
+    "Aarhus Black Vipers": {
+        "followers": 1,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/3AGA1LzpKNod6GxwOrkIZb"
+    },
+    "Aarhus Symfoniorkester": {
+        "followers": 108,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/7jHwH3PMC3VZIUxEUaXPFt"
+    },
+    "Sankt Annæ Pigekor": {
+        "followers": 324,
+        "genres": "dansktop",
+        "link": "https://open.spotify.com/artist/5rVWTqymoijTzERcOKen3V"
+    },
+    "andreas odbjerg": {
+        "followers": 90701,
+        "genres": "dansk pop, dansktop",
+        "link": "https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR"
+    },
+    "Undertekst": {
+        "followers": 4936,
+        "genres": "dansk pop, dansktop",
+        "link": "https://open.spotify.com/artist/6bYrq1Uxd15cMGbmcZCLMM"
+    },
+    "iomfro": {
+        "followers": 2944,
+        "genres": "dansktop, dansk pop",
+        "link": "https://open.spotify.com/artist/0eaVSr1l3NXZ4tdWeiMR1C"
+    },
+    "Zar Paulo": {
+        "followers": 12572,
+        "genres": "dansk pop, dansktop",
+        "link": "https://open.spotify.com/artist/5Org3M2mFFEFd8A57h9Yv2"
+    },
+    "AySay": {
+        "followers": 7183,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/5Py5TK2D6YiXZeivaPkRhE"
+    },
+    "Go Go Berlin": {
+        "followers": 10300,
+        "genres": "dansk pop",
+        "link": "https://open.spotify.com/artist/2KhxPosY8D9KS5yQn8kYaE"
+    },
+    "Lowly": {
+        "followers": 18126,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/721bfjbiX9Koqt2rO8PWOY"
+    },
+    "Simone Tang": {
+        "followers": 2481,
+        "genres": "dansk pop, ambient folk",
+        "link": "https://open.spotify.com/artist/1ffZMMdNhHgMkn87I7K1jC"
+    },
+    "WHO KILLED BAMBI": {
+        "followers": 1675,
+        "genres": "neoclassical",
+        "link": "https://open.spotify.com/artist/1Bcrf69IwrdZdJAtu0VjqK"
+    },
+    "PRISMA": {
+        "followers": 8598,
+        "genres": "dansk pop",
+        "link": "https://open.spotify.com/artist/5b02TpKt4S8eb9f7Smg8Au"
+    },
+    "Alberte Winding": {
+        "followers": 21908,
+        "genres": "dansk pop, dansktop, children's music",
+        "link": "https://open.spotify.com/artist/42mipk3GhuRQ8CjFTBDGqt"
+    },
+    "Baby Did a Bad Thing": {
+        "followers": 1585,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/2Oi0JLQElWJTqwXM976gnp"
+    },
+    "Kajsa Vala": {
+        "followers": 3795,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/2E4rx7CiMmrSh7J0Kw5tyW"
+    },
+    "Marianne van Toornburg": {
+        "followers": 119,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/7EtaX7TV4YXS1eHCvrtwRk"
+    },
+    "Odense Assholes": {
+        "followers": 7263,
+        "genres": "dansk rap, dansk pop",
+        "link": "https://open.spotify.com/artist/0gc6DSe7l2b1A9HKI6nVBP"
+    },
+    "Ude Af Kontrol": {
+        "followers": 115926,
+        "genres": "dansk rap, dansk pop",
+        "link": "https://open.spotify.com/artist/2ZbyyCS8KLKsuoNlxc76Ev"
+    },
+    "FISSELIS": {
+        "followers": 8957,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/1o5S5CMNiUNQUUpu0DVIKc"
+    },
+    "UkuleleHanne": {
+        "followers": 1492,
+        "genres": "dansktop",
+        "link": "https://open.spotify.com/artist/6ntBZx5dxa2Vv2M37s5mdK"
+    },
+    "Odense Jazz Orchestra": {
+        "followers": 79,
+        "genres": "big band",
+        "link": "https://open.spotify.com/artist/6KFA5Pmx2aUOw8NiRYznqK"
+    },
+    "BFL": {
+        "followers": 6285,
+        "genres": "dansk rap",
+        "link": "https://open.spotify.com/artist/5jTlCKrRlM8zV3NDnt5uhU"
+    },
+    "Odense Bulldogs": {
+        "followers": 3,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/68EcmmoyaJF1rPbG8Putra"
+    },
+    "Odense Banden": {
+        "followers": 2,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/5MnrirKgXNR7QVOw2VJBOn"
+    },
+    "Fler Farver": {
+        "followers": 2057,
+        "genres": "dansk rap",
+        "link": "https://open.spotify.com/artist/4OypFw5xBl39POocVmEWNu"
+    },
+    "Odensebanden": {
+        "followers": 4,
+        "genres": "dansktop",
+        "link": "https://open.spotify.com/artist/5cJ9JZCWTHuZewsYUcocyw"
+    },
+    "Odense Staalskibsværfts Orkester": {
+        "followers": 2,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/1rVhhhytLBYwkEAVwIk0Hj"
+    },
+    "Pattesutter": {
+        "followers": 34454,
+        "genres": "dansk rap, dansk pop",
+        "link": "https://open.spotify.com/artist/6gBmiKOt38JSrowmeMqawZ"
+    },
+    "Odense Internationale Musikteater": {
+        "followers": 3,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/0JNP7UBddYrlARJqBDml2R"
+    },
+    "Odense": {
+        "followers": 21,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/3lL8mjj2SbxfMoRcPLioLv"
+    },
+    "Odense Symphony Orchestra": {
+        "followers": 419,
+        "genres": "orchestral",
+        "link": "https://open.spotify.com/artist/0Fa03NPFHRCV8aITqMKhCp"
+    },
+    "Fællesklang Odense": {
+        "followers": 2,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/7h7BduqQlrHzKAsr1EIVkR"
+    },
+    "Ugeavisen Odense": {
+        "followers": 1,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/6eutNldjcwr1LHEI7MB5a7"
+    },
+    "Odense Symfoniorkester": {
+        "followers": 103,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/03Qcqq0rdyMsl7UcUfta1k"
+    },
+    "Østen": {
+        "followers": 5412,
+        "genres": "dansk pop, dansktop",
+        "link": "https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU"
+    },
+    "Odenose": {
+        "followers": 466,
+        "genres": "alté, highlife, afro soul",
+        "link": "https://open.spotify.com/artist/0P8FADOC9ZjVp8ux0cH0tc"
+    },
+    "Odense Jazzband": {
+        "followers": 0,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/1zagyvwZGzcXEovc8w3KrY"
+    },
+    "Odense Motetkor": {
+        "followers": 3,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/0dof5vL1tqjzx5uM1HgF68"
+    },
+    "London Odense Ensemble": {
+        "followers": 1234,
+        "genres": "krautrock",
+        "link": "https://open.spotify.com/artist/2H9a3JMdIT0tPlCXHt9Wng"
+    },
+    "JOSVA": {
+        "followers": 8186,
+        "genres": "dansk rap, dansk pop, dansktop",
+        "link": "https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr"
+    },
+    "Chicago Odense Ensemble": {
+        "followers": 596,
+        "genres": "space rock, free jazz",
+        "link": "https://open.spotify.com/artist/36M3k6hRMYZWQiLp3PhWPt"
+    },
+    "Liller & Odense Banden": {
+        "followers": 4,
+        "genres": "dansktop",
+        "link": "https://open.spotify.com/artist/0BtAsWvj2lCMTMCSL1wzmW"
+    },
+    "Odense Symfoniorkester feat. Faustix": {
+        "followers": 2,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/12E6GFcoQsyDkqYmJ67RnR"
+    },
+    "Odyssey": {
+        "followers": 1604,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/09ZLqyCta4eVplqQrSJKBx"
+    },
+    "Anders Matthesen": {
+        "followers": 29740,
+        "genres": "dansk rap, dansk pop, christmas",
+        "link": "https://open.spotify.com/artist/7ywx4levGzk6v90WXQToXe"
+    },
+    "Omar": {
+        "followers": 26672,
+        "genres": "dansk rap, dansk pop, dansktop",
+        "link": "https://open.spotify.com/artist/1GLzVjVa7bLnAcD1At98j3"
+    },
+    "Jonah Blacksmith": {
+        "followers": 36103,
+        "genres": "dansk pop",
+        "link": "https://open.spotify.com/artist/3oM2douHxNqMYMbRNkT1tr"
+    },
+    "TV-2": {
+        "followers": 99488,
+        "genres": "dansk pop, dansktop",
+        "link": "https://open.spotify.com/artist/6jvJrJNRIBqin5CYaT2cup"
+    },
+    "Odeneho Cannella": {
+        "followers": 70,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/3HrH8Q91vXDbtZfClmGx8S"
+    },
+    "Bastian": {
+        "followers": 3537,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/2aVSAsnjQKM1vb0D8tUxTe"
+    },
+    "Bastian Bertelsen": {
+        "followers": 282,
+        "genres": "dansk pop",
+        "link": "https://open.spotify.com/artist/5mFvYDnHT7e4VcSxRFUD0F"
+    },
+    "Lisa Frederiksberg": {
+        "followers": 92,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/5ur3lirtOD7qDRBLqfWTzb"
+    },
+    "Frederiksberg Kirkes Børne og Ungdomskor": {
+        "followers": 20,
+        "genres": "christmas",
+        "link": "https://open.spotify.com/artist/6PxHGhkZPdXPjgq5iFtbXk"
+    },
+    "Frederiksberg Karnevalsgruppe": {
+        "followers": 0,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/4xRTIkKAz4zB0SmBn7oEt8"
+    },
+    "Fredrik Bergsten": {
+        "followers": 14,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/01HjLquTo7muZTXlEfM00o"
+    },
+    "Blaue Blume": {
+        "followers": 24978,
+        "genres": "dansk pop",
+        "link": "https://open.spotify.com/artist/2RMn57qMY0yhUiIYdtUXlh"
+    },
+    "Berg": {
+        "followers": 11019,
+        "genres": "dansk pop",
+        "link": "https://open.spotify.com/artist/4DZ5VR6bUEFtiXoi6IsfcD"
+    },
+    "Fed": {
+        "followers": 2228,
+        "genres": "dansktop, dansk rap, dansk pop",
+        "link": "https://open.spotify.com/artist/3iNAYojNoEixhavOvoW1Pr"
+    },
+    "FRSLV": {
+        "followers": 1610,
+        "genres": "dansk rap, dansktop, dansk pop",
+        "link": "https://open.spotify.com/artist/7eFy8x4GPEMGr2iwf52ejZ"
+    },
+    "Fredrik Berglund": {
+        "followers": 86,
+        "genres": "choral",
+        "link": "https://open.spotify.com/artist/6RhxET115Jh04DoqF8REeX"
+    },
+    "Freja Kirk": {
+        "followers": 7136,
+        "genres": "dansk pop",
+        "link": "https://open.spotify.com/artist/6RkUXqTZlgi1qagWreJRgG"
+    },
+    "KEDDE": {
+        "followers": 1896,
+        "genres": "dansk pop, dansktop",
+        "link": "https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ"
+    },
+    "Barselona": {
+        "followers": 23079,
+        "genres": "dansk pop, dansktop, dansk rap",
+        "link": "https://open.spotify.com/artist/2wdsck730u8ZhDA7eVHw7m"
+    },
+    "FØNS": {
+        "followers": 4465,
+        "genres": "dansk rap, dansktop, dansk pop",
+        "link": "https://open.spotify.com/artist/2f7J0tvrmhyRViGRtMnTfi"
+    },
+    "Fredrik Bergman": {
+        "followers": 33,
+        "genres": "tango",
+        "link": "https://open.spotify.com/artist/3pRNFbtuDKNmUVyV2BvDIn"
+    },
+    "Danseorkestret": {
+        "followers": 21397,
+        "genres": "dansk pop, dansktop",
+        "link": "https://open.spotify.com/artist/1mbYtO5wyUaGVCFQFPPwme"
+    },
+    "Panamah": {
+        "followers": 21593,
+        "genres": "dansk pop, dansktop",
+        "link": "https://open.spotify.com/artist/3SyJZpVRYuncgXPtjAceOJ"
+    },
+    "Rasmus Nøhr": {
+        "followers": 30957,
+        "genres": "dansk pop, dansktop",
+        "link": "https://open.spotify.com/artist/2AE5DinlTXCV7JeVKKQEgk"
+    },
+    "Ulige Numre": {
+        "followers": 32284,
+        "genres": "dansk pop, dansktop",
+        "link": "https://open.spotify.com/artist/66Govzchulxe274wHxB7RY"
+    },
+    "Lis Sørensen": {
+        "followers": 43174,
+        "genres": "dansk pop, dansktop",
+        "link": "https://open.spotify.com/artist/4XXfhoWXcfQol6IXKIXclH"
+    },
+    "Søs Fenger": {
+        "followers": 28917,
+        "genres": "dansk pop, dansktop",
+        "link": "https://open.spotify.com/artist/5TRVLzyHn2sEJsu1fwbv5S"
+    },
+    "Jada": {
+        "followers": 29666,
+        "genres": "dansk pop",
+        "link": "https://open.spotify.com/artist/2pobDPwk9fuzujz5YKKAVB"
+    },
+    "Folkeklubben": {
+        "followers": 22536,
+        "genres": "dansk pop, dansk rap, dansktop",
+        "link": "https://open.spotify.com/artist/3qqhR4mOQZP2t2I6QmU8lE"
+    },
+    "Otto Brandenburg": {
+        "followers": 6350,
+        "genres": "dansktop, dansk pop",
+        "link": "https://open.spotify.com/artist/54AYfjvNjvNRpRUos9PEf7"
+    },
+    "Puls": {
+        "followers": 72946,
+        "genres": "dansk pop",
+        "link": "https://open.spotify.com/artist/6odCyuVrAMHyn0qrhinu9h"
+    },
+    "Kim Larsen": {
+        "followers": 482596,
+        "genres": "dansktop, dansk pop",
+        "link": "https://open.spotify.com/artist/2ZQifdPOptKHxTaYTLh0BC"
+    },
+    "Dizzy Mizz Lizzy": {
+        "followers": 71547,
+        "genres": "dansk pop",
+        "link": "https://open.spotify.com/artist/71fY009eJ8QSpSNGDSkSuK"
+    },
+    "Anne Linnet": {
+        "followers": 61400,
+        "genres": "dansk pop, dansktop",
+        "link": "https://open.spotify.com/artist/6AWEo7TFXeaDNDMMFuE2YY"
+    },
+    "Tøsedrengene": {
+        "followers": 42387,
+        "genres": "dansk pop, dansktop",
+        "link": "https://open.spotify.com/artist/77tySlfNCOSAhpjqD8Q8IL"
+    },
+    "Danser med Drenge": {
+        "followers": 25723,
+        "genres": "dansk pop, dansktop",
+        "link": "https://open.spotify.com/artist/46mTDHjdFjTREan8wen9Gg"
+    },
+    "Fede Finn & Funny Boyz": {
+        "followers": 6071,
+        "genres": "dansktop, dansk pop",
+        "link": "https://open.spotify.com/artist/7C3pZ5Xui1qtgrCOFoR9gd"
+    },
+    "Nanna": {
+        "followers": 11070,
+        "genres": "dansk pop, dansktop, children's music",
+        "link": "https://open.spotify.com/artist/3ezTWbtfwxOJLmlXKFSXRk"
+    },
+    "Dicte": {
+        "followers": 4280,
+        "genres": "christmas, dansk pop",
+        "link": "https://open.spotify.com/artist/2M8siACtKsHdqRo2y5YE1Z"
+    },
+    "Flemming Bamse Jørgensen": {
+        "followers": 26321,
+        "genres": "dansktop, dansk pop",
+        "link": "https://open.spotify.com/artist/2hwroN1fQUybhUxBxEVu6W"
+    },
+    "Tommy Seebach": {
+        "followers": 18372,
+        "genres": "dansktop, dansk pop",
+        "link": "https://open.spotify.com/artist/4j8KP6LIyjhpM282XUhjoz"
+    },
+    "Kandis": {
+        "followers": 14589,
+        "genres": "dansktop, dansband, dansk pop",
+        "link": "https://open.spotify.com/artist/36EOFeq5ZtWgYULc9SbEbL"
+    },
+    "S.O.A.P.": {
+        "followers": 6198,
+        "genres": "eurodance, europop",
+        "link": "https://open.spotify.com/artist/4tc5xhcuEtiRizloAL4wZI"
+    },
+    "ADHD": {
+        "followers": 34663,
+        "genres": "dansk pop",
+        "link": "https://open.spotify.com/artist/3pVeFlyhwHatDeau2SQyPH"
+    },
+    "Faustix": {
+        "followers": 43377,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd"
+    },
+    "Infernal": {
+        "followers": 36116,
+        "genres": "eurodance",
+        "link": "https://open.spotify.com/artist/2nnBn2iyqkuOBj85nhGp1k"
+    },
+    "Gorillaz": {
+        "followers": 14652705,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+    },
+    "Roskilde Domkor": {
+        "followers": 2,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/2U8RDLwWNXSt4JYLcRfDPp"
+    },
+    "Pa Salieu": {
+        "followers": 155557,
+        "genres": "afroswing, grime, uk grime, uk drill",
+        "link": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
+    },
+    "Jesu Brødre": {
+        "followers": 23797,
+        "genres": "dansk pop, dansk rap",
+        "link": "https://open.spotify.com/artist/77gYgkCUtHer0Azs2WKCnB"
+    },
+    "Ethel Cain": {
+        "followers": 1123604,
+        "genres": "southern gothic",
+        "link": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+    },
+    "千葉雄喜": {
+        "followers": 212326,
+        "genres": "j-rap",
+        "link": "https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu"
+    },
+    "Bad Gyal": {
+        "followers": 2207985,
+        "genres": "neoperreo",
+        "link": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+    },
+    "Klub Midt Roskilde": {
+        "followers": 3,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/38XtNTK0GV6XIYWg6PVcpy"
+    },
+    "Cobrah": {
+        "followers": 221221,
+        "genres": "ballroom vogue, hyperpop",
+        "link": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
+    },
+    "Sierra Ferrell": {
+        "followers": 451130,
+        "genres": "americana, bluegrass, alt country",
+        "link": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+    },
+    "The Cure": {
+        "followers": 6697060,
+        "genres": "new wave, post-punk, gothic rock, darkwave",
+        "link": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+    },
+    "¥ØU$UK€ ¥UK1MAT$U w friends": {
+        "followers": 7827,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/0BEmPeY22LTrZJFFP2xIyk"
+    },
+    "RSK Rosenkilde": {
+        "followers": 182,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/0k9GKw6rQfbQoGqiDS2Mxq"
+    },
+    "Róshildur": {
+        "followers": 457,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/1P39L2HVvG5bBb1mSUuye8"
+    },
+    "Roskilde Domkirkes Pigekor": {
+        "followers": 29,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/6tn74dHBBI4TjOwWRk6ssE"
+    },
+    "Brutalismus 3000": {
+        "followers": 438666,
+        "genres": "hard techno, tekno, techno, gabber, acid techno",
+        "link": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
+    },
+    "Camp Roskilde 2017": {
+        "followers": 2,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/2yyK27D7gXJRyYzTIAa5dE"
+    },
+    "Roskildekoret m. Merete Hjortsø, Guido Paëvatalu, Christian Christiansen og Niels Henrik Nielsen": {
+        "followers": 7,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/7IPStx3HBLD0dJd0E1ta4t"
+    },
+    "Musikstarter Camp Roskilde 2017 Allstars": {
+        "followers": 10,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/7Fq0H1Cn0OCzoHj0Bmaxx7"
+    },
+    "Sivas": {
+        "followers": 69867,
+        "genres": "dansk rap, dansktop, dansk pop",
+        "link": "https://open.spotify.com/artist/3W7YeaPmcpi1UFutTF49kx"
+    },
+    "Roskildekoret m. Christian Christiansen, bas": {
+        "followers": 2,
+        "genres": "choral",
+        "link": "https://open.spotify.com/artist/6l6mi6yP4tNILWucqy3D8L"
+    },
+    "Roskildekoret m. Merete Hjortsø, Guido Paëvatalu og Christian Christiansen": {
+        "followers": 3,
+        "genres": "choral, requiem",
+        "link": "https://open.spotify.com/artist/0ihVPU6CPskA2pIhTsyMm6"
+    },
+    "Boy's Choir Of Roskilde Cathedral": {
+        "followers": 51,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/6w6owgELd526rN1RBPazuw"
+    },
+    "Congregational Choir Of Roskilde Cathedral": {
+        "followers": 18,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/0ghFW6pKnjy3FYne7TyBd0"
+    },
+    "Rosiles": {
+        "followers": 329,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/0KGaXUsNX74L8Jid30otXz"
+    },
+    "Los Indios Tabajaras": {
+        "followers": 36171,
+        "genres": "latin folklore",
+        "link": "https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb"
+    },
+    "Rosilene Martins": {
+        "followers": 3330,
+        "genres": "pentecostal",
+        "link": "https://open.spotify.com/artist/2thXFDS2ZFOyWSWTskBHwq"
+    },
+    "Aalborg Teater": {
+        "followers": 57,
+        "genres": "dansk pop, dansktop",
+        "link": "https://open.spotify.com/artist/3YrV3Fnp5LTU5FRUzSE7mQ"
+    },
+    "Aalborg Kidz": {
+        "followers": 1,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/29jWAoAQeOAKNVVKF5OdGU"
+    },
+    "Drengene Fra Angora": {
+        "followers": 15041,
+        "genres": "christmas, dansktop, dansk pop",
+        "link": "https://open.spotify.com/artist/14Yvg4O01WlpP3Jm2AP6oI"
+    },
+    "Aalborg STX": {
+        "followers": 0,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/5HjgHI9vw57CDOIWj7mikF"
+    },
+    "Aalborg Børnekarneval": {
+        "followers": 0,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/3108DUzpN4kK71OV31pfZI"
+    },
+    "Aalborg Symfoniorkester": {
+        "followers": 61,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/00ZVeEU5GmXjeSQV01pNum"
+    },
+    "Aalborg Symfoniorkester (ASO)": {
+        "followers": 3,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/43gy94ggF7AXNm983j4QGV"
+    },
+    "Aalborg Lovsang": {
+        "followers": 35,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/4vWOzvpYdMOSfn7xDvd6zF"
+    },
+    "Tormodur": {
+        "followers": 129,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/5mzFMkdZbU0vJCAzu7LRg2"
+    },
+    "Aalborg Symphony Orchestra": {
+        "followers": 315,
+        "genres": "classical piano",
+        "link": "https://open.spotify.com/artist/2FaZUkg4m9ctLMXK7CA6Jm"
+    },
+    "Aalborg Soundtracks": {
+        "followers": 369,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/5DBWv0kTLHK9MMDvpysz8x"
+    },
+    "KFUM Aalborg PowerGirls": {
+        "followers": 12,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/304cNy7pOptp6vo67fUb2b"
+    },
+    "Aalborg": {
+        "followers": 119,
+        "genres": "stoner metal, drone",
+        "link": "https://open.spotify.com/artist/26h9M8CfXGV5BDd8Vj9XqV"
+    },
+    "Ensemble Aalborg Teater": {
+        "followers": 0,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/6LXqSXO7V75eWpM3fSeUBz"
+    },
+    "Aalborg Symphony": {
+        "followers": 68,
+        "genres": "classical piano",
+        "link": "https://open.spotify.com/artist/4DJ43Xrc6YdtN931A2u07a"
+    },
+    "Ella Augusta": {
+        "followers": 12552,
+        "genres": "dansk pop, dansktop, dansk rap",
+        "link": "https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz"
+    },
+    "Aalborg Kathedralskoles Choir": {
+        "followers": 1,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/0E1LH4NhMBAQhhJvb0uTq9"
+    },
+    "Aalborg Universitets Kammerkor": {
+        "followers": 3,
+        "genres": "choral",
+        "link": "https://open.spotify.com/artist/3fLYZDKgaCUqu93kqU015S"
+    },
+    "Indigo Aalborg": {
+        "followers": 3,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/77lNUrbPZQSykFUmoTYgS1"
+    },
+    "Filharmonisk Kor Aalborg": {
+        "followers": 0,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/6xNHzqof1rj2YXlgKC5gV6"
+    },
+    "Les Talens Lyriques/Christophe Rousset/Alain Duchemin/Sandrine Piau/Marie Boyer/Mark Padmore/François Piolino/Stephan Van Dyck/Paul Gerimon/Florence Malgoire/Aalborg Symphony/Kaori Uemura": {
+        "followers": 1,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/60m7HHTiulk7YFrUHGs4g7"
+    },
+    "Les Talens Lyriques/Christophe Rousset/Alain Duchemin/Sandrine Piau/Marie Boyer/Mark Padmore/François Piolino/Stephan Van Dyck/Paul Gerimon/Florence Malgoire/Aalborg Symphony/Kaori Uemura/Alain Petit": {
+        "followers": 3,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/2RIuNskittYLcu7gsx5QWy"
+    },
+    "Les Talens Lyriques/Christophe Rousset/Sandrine Piau/Marie Boyer/Mark Padmore/François Piolino/Stephan Van Dyck/Paul Gerimon/Florence Malgoire/Aalborg Symphony/Kaori Uemura": {
+        "followers": 3,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/2f17o85g0DYCMwByPH9BqG"
+    },
+    "Benal": {
+        "followers": 25513,
+        "genres": "dansk rap, dansk pop, dansktop",
+        "link": "https://open.spotify.com/artist/1p2z4hiBCkxfWZ6OvyGBSA"
+    },
+    "Hans Esbjerg": {
+        "followers": 186,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/4wHBNpyI8CFMasPrh6gYso"
+    },
+    "Esbjerg Ensemble": {
+        "followers": 188,
+        "genres": "chamber music, dansktop, neoclassical, avant-garde",
+        "link": "https://open.spotify.com/artist/2iwJGa3ZjS0a4VtLCS6XMb"
+    },
+    "Esbjerg Vikings": {
+        "followers": 1,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/3Ps16UqTbJPBLnwPhkqlkE"
+    },
+    "Ribe-Esbjerg HH Allstars": {
+        "followers": 5,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/51EuaWrr6fjKJnTQE7QvuN"
+    },
+    "Esbjerg Gymnasiums Kor": {
+        "followers": 0,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/2sBu2CrTFZm2ZHBX7uvZN5"
+    },
+    "Mekdes": {
+        "followers": 12128,
+        "genres": "dansk pop, dansktop",
+        "link": "https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx"
+    },
+    "Kato": {
+        "followers": 107586,
+        "genres": "dansk pop, dansk rap",
+        "link": "https://open.spotify.com/artist/1udruffum7CorOphFUMB9A"
+    },
+    "TopGunn": {
+        "followers": 117251,
+        "genres": "dansk rap, dansk pop, dansktop",
+        "link": "https://open.spotify.com/artist/4nXezpatStChCEWVvYLjd5"
+    },
+    "Skinz": {
+        "followers": 32001,
+        "genres": "dansk pop, dansk rap",
+        "link": "https://open.spotify.com/artist/323gjVOWgnKGW3VuT8VKTx"
+    },
+    "Tina Dickow": {
+        "followers": 76649,
+        "genres": "dansk pop",
+        "link": "https://open.spotify.com/artist/5FwWkrkqRy9Qmny3vqxYUe"
+    },
+    "Svea S": {
+        "followers": 13617,
+        "genres": "dansk pop, dansktop",
+        "link": "https://open.spotify.com/artist/7nCIXUCqZmxntAGJMyls5c"
+    },
+    "Sofie1998": {
+        "followers": 4973,
+        "genres": "dansk pop, dansktop",
+        "link": "https://open.spotify.com/artist/56kAP8Glt3AVDWrOwxX9aB"
+    },
+    "KIDD": {
+        "followers": 49381,
+        "genres": "dansk rap, dansk pop, dansktop",
+        "link": "https://open.spotify.com/artist/7Ap8xCd7d0xon5XnkLvn4i"
+    },
+    "Gulddreng": {
+        "followers": 59506,
+        "genres": "dansk pop, dansk rap",
+        "link": "https://open.spotify.com/artist/1twDsBPbUYeljharVfF6Lf"
+    },
+    "MGP": {
+        "followers": 6764,
+        "genres": "dansk pop",
+        "link": "https://open.spotify.com/artist/7Gl5Kp9xBBFAH0wNUTAP38"
+    },
+    "Dyb Ro": {
+        "followers": 9974,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/0iK5Jr371xhg8pkPRCIWk2"
+    },
+    "NODE": {
+        "followers": 44641,
+        "genres": "dansk rap, dansk pop",
+        "link": "https://open.spotify.com/artist/03WNJB1zKyqW8DimkHP4Bg"
+    },
+    "Stepz": {
+        "followers": 31190,
+        "genres": "dansk rap, dansk pop, dansktop",
+        "link": "https://open.spotify.com/artist/21gbsnlPT5hyxKDKHsBtQj"
+    },
+    "Dyb Ro Kids": {
+        "followers": 4761,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/6ZZ1v88StVNHROTMoxGlXw"
+    },
+    "Sigvardt": {
+        "followers": 317,
+        "genres": "dansk pop, dansk rap",
+        "link": "https://open.spotify.com/artist/01SHHLZ1xZbAhpoirvXjiI"
+    },
+    "Malte Ebert": {
+        "followers": 60416,
+        "genres": "dansk pop",
+        "link": "https://open.spotify.com/artist/3UaEtP4pJGDhyEzy47AMzl"
+    },
+    "Usynlig Ven": {
+        "followers": 290,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/1OdFSK9YU6KBCMn5sWAH2G"
+    },
+    "Jon Vejlemand": {
+        "followers": 629,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/4qhU9uJgvnNYr111QNbUya"
+    },
+    "Vejle Boldklub": {
+        "followers": 202,
+        "genres": "dansk pop",
+        "link": "https://open.spotify.com/artist/67WXb6TiLsuUlJuFkEvsJN"
+    },
+    "Vejles Venner": {
+        "followers": 6,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/1LfT21UDNvNi96jpTZFPBZ"
+    },
+    "Laura Vejlby": {
+        "followers": 381,
+        "genres": "dansk pop",
+        "link": "https://open.spotify.com/artist/4V4WZwkKxV8Y2u5GVF3cIJ"
+    },
+    "Vejle Town": {
+        "followers": 0,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/1b1glUHZGopYjszkcSdxna"
+    },
+    "Vejlesdronning": {
+        "followers": 0,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/1ljZzSkx6vwuEGs54YmAYp"
+    },
+    "Andreas Vejlebo": {
+        "followers": 0,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/51Cp1tXoLraU0Ftm4RoAzW"
+    },
+    "Tony Vejslev": {
+        "followers": 38,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/1of7ODFvDhlLdwVLT2H5P9"
+    },
+    "vejen 4k": {
+        "followers": 76,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/10u5q2bsn2BYGO0cjGksHP"
+    },
+    "Vejkes": {
+        "followers": 168,
+        "genres": "rage rap",
+        "link": "https://open.spotify.com/artist/3kB7YtLZJjhxTdhwVXHxIV"
+    },
+    "Zemri Vejseli": {
+        "followers": 289,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/00pgCHUjo8wEECprnI8ek8"
+    },
+    "Vējiem līdzi": {
+        "followers": 245,
+        "genres": "italo disco, italo dance",
+        "link": "https://open.spotify.com/artist/0VQfdEa96PqaxuIM0dYv4X"
+    },
+    "Vejce": {
+        "followers": 379,
+        "genres": "big beat",
+        "link": "https://open.spotify.com/artist/304T0HbtOUyL8f9uVRmhV9"
+    },
+    "Vejetal": {
+        "followers": 536,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/5VQjZjyXBPgUeHci1hZwTP"
+    },
+    "Randers Cowboys": {
+        "followers": 8011,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/6fydcYzLmsnVfGZe8Jy5PH"
+    },
+    "Xander Linnet": {
+        "followers": 30867,
+        "genres": "dansk pop, dansk rap, dansktop",
+        "link": "https://open.spotify.com/artist/4bXHrRcSltf4w7u2g406TB"
+    },
+    "Randers Big Band": {
+        "followers": 26,
+        "genres": "big band",
+        "link": "https://open.spotify.com/artist/3MDjNQQvS9NFHe3X0jBGEu"
+    },
+    "Randers FC": {
+        "followers": 133,
+        "genres": "go-go",
+        "link": "https://open.spotify.com/artist/6FTiYRNoecIdDW7QVtJrVt"
+    },
+    "Område 69": {
+        "followers": 8460,
+        "genres": "dansk rap, dansk pop",
+        "link": "https://open.spotify.com/artist/15Bo9za66QGiX8iIJnJzfv"
+    },
+    "Randers Kammerorkester": {
+        "followers": 4,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/1WwohbTeWgAPc4r2wI8HLR"
+    },
+    "Johny Cola": {
+        "followers": 11566,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/6zEZeh5dkUYluxDCnhOlyF"
+    },
+    "Ash Randers": {
+        "followers": 7132,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/5dWndFGuVl632aMTovMrdO"
+    },
+    "Randershof": {
+        "followers": 2,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/2zpo9q7bDhIIgQ8sLhvl9H"
+    },
+    "Randerson7": {
+        "followers": 3,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/2pe2a6XGbfFfgf6C8w4AGC"
+    },
+    "Randers-Rejsningen": {
+        "followers": 0,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/3ZsFoEWRtRz7QEyXuvBUml"
+    },
+    "Randerson Figas": {
+        "followers": 0,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/3hUHOVBAMtW5EnUaDZrUqF"
+    },
+    "Randerson": {
+        "followers": 3,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/09XeZ4oYfae266TdQ5mbw4"
+    },
+    "Randers Chamber Orchestra": {
+        "followers": 17,
+        "genres": "chamber music",
+        "link": "https://open.spotify.com/artist/6YixIEj2UyRfYrng9Q6YyA"
+    },
+    "Kr. Randers": {
+        "followers": 0,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/3lOhh6ITpNNfdQfShQm8lP"
+    },
+    "Power Rangers": {
+        "followers": 74294,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/7cTXTmhaqdEVifI1B33cnx"
+    },
+    "Rob Randers": {
+        "followers": 0,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/0qlBR25GuZpFnDWVK3SyOf"
+    },
+    "The Forest Rangers": {
+        "followers": 63049,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/46xMgypLHP8GNsYME3vRnV"
+    },
+    "Mads Langer": {
+        "followers": 138127,
+        "genres": "dansk pop",
+        "link": "https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x"
+    },
+    "Space Rangers": {
+        "followers": 6288,
+        "genres": "g-house",
+        "link": "https://open.spotify.com/artist/25o5gyj3kk1DUaRkkcEkZy"
+    },
+    "Spirit Rangers": {
+        "followers": 13081,
+        "genres": "children's music",
+        "link": "https://open.spotify.com/artist/7ql3ijCi16a0kRngv057ze"
+    },
+    "Rangers": {
+        "followers": 9062,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/4iiNpU2gPH6XNslPx5YU3V"
+    },
+    "Rander": {
+        "followers": 477,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/54gsATEbCANZOJhWRfrQ3g"
+    },
+    "Steep Canyon Rangers": {
+        "followers": 63167,
+        "genres": "bluegrass, newgrass, americana",
+        "link": "https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O"
+    },
+    "The Rangers": {
+        "followers": 3775,
+        "genres": "hyphy",
+        "link": "https://open.spotify.com/artist/6u2S1XP1bSYCVjpzTF60Uu"
+    },
+    "Audra Mae": {
+        "followers": 35511,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/21jPcGkRtUofRVCC8cWHPS"
+    },
+    "Kolding": {
+        "followers": 200,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/1Gk5kx73gKM2EM6STCkIlD"
+    },
+    "Kolinga": {
+        "followers": 36359,
+        "genres": "afro house",
+        "link": "https://open.spotify.com/artist/1l4wo8qR1qvFN8aym2xmDM"
+    },
+    "Sminkedukken": {
+        "followers": 1650,
+        "genres": "dansk pop",
+        "link": "https://open.spotify.com/artist/10TV1dbtt1pWjGzhucBKb4"
+    },
+    "Fl3X": {
+        "followers": 129,
+        "genres": "dansk rap",
+        "link": "https://open.spotify.com/artist/1wcFkUV28pzCH0kNREh1Q0"
+    },
+    "Morten Nørhave Kolding": {
+        "followers": 25,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/0WDMipFVar7pMVaG8w7ARb"
+    },
+    "Lars Kolding Wolf": {
+        "followers": 1,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/10KU3aqWahJJVkRh2Ca8C5"
+    },
+    "Preben Kolding": {
+        "followers": 7,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/1M6x0tCceg3zA2m6yW3Vgj"
+    },
+    "The Minds Of 99": {
+        "followers": 157149,
+        "genres": "dansk pop, dansktop",
+        "link": "https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL"
+    },
+    "Kolding Flute & Guitar Duo": {
+        "followers": 59,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/6yCw7ttzv1dyV8PAxlXLBN"
+    },
+    "Todd Kolding": {
+        "followers": 6,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/34xPWXXiL42kZ4he3HEX98"
+    },
+    "KALASET": {
+        "followers": 12916,
+        "genres": "dansk pop, dansktop",
+        "link": "https://open.spotify.com/artist/2Wqxw6V3d9ZzAf32jTjwW7"
+    },
+    "Klamfyr": {
+        "followers": 23213,
+        "genres": "dansk rap, dansk pop, dansktop",
+        "link": "https://open.spotify.com/artist/1pPNZapO1Qthbd90B1LlOS"
+    },
+    "Jamaika": {
+        "followers": 59878,
+        "genres": "dansk rap, dansk pop, dansktop",
+        "link": "https://open.spotify.com/artist/7EJcUkbBsR4kN822bEa0ZS"
+    },
+    "Alh. Gen. Kollington Ayinla": {
+        "followers": 13684,
+        "genres": "fújì, highlife",
+        "link": "https://open.spotify.com/artist/3uIlPJViqj5FsbtwXW2GLz"
+    },
+    "Alh. Gen. Koliington Ayinla": {
+        "followers": 5315,
+        "genres": "fújì, highlife",
+        "link": "https://open.spotify.com/artist/76cG6lltCNSuzHq7cZ2pNj"
+    },
+    "Alhaji Chief Kollington Ayinla": {
+        "followers": 3310,
+        "genres": "fújì, highlife",
+        "link": "https://open.spotify.com/artist/07hPhHUJRfSIGO7o5Eu5JC"
+    },
+    "Míria Therezinha Kolling": {
+        "followers": 5789,
+        "genres": "gregorian chant",
+        "link": "https://open.spotify.com/artist/0pND4L4oMa53Xfwmazeu2M"
+    },
+    "Ir. Míria T. Kolling ICM": {
+        "followers": 4590,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/5TwlH1T9geqwhI8PDSdYYF"
+    },
+    "Albert Heath": {
+        "followers": 3453,
+        "genres": "dansk pop, dansktop, dansk rap",
+        "link": "https://open.spotify.com/artist/0JYSq0mqljZ5VYGF1M3r2L"
+    },
+    "Horsens Hardy": {
+        "followers": 67,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/0WI7Bx2eZONmMrX2akAUUJ"
+    },
+    "Band of Horses": {
+        "followers": 1045026,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
+    },
+    "Mona Moroni": {
+        "followers": 9011,
+        "genres": "dansk pop, dansktop",
+        "link": "https://open.spotify.com/artist/38PAFXQi0atIV2ztzlIdAS"
+    },
+    "horses_horses_horses": {
+        "followers": 2833,
+        "genres": "electroclash",
+        "link": "https://open.spotify.com/artist/3wv4V53njjQ5adIx6itsh1"
+    },
+    "Horseshoe G.A.N.G.": {
+        "followers": 36893,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/33AivM5CKAfFCziJBaexKi"
+    },
+    "Charming Horses": {
+        "followers": 57224,
+        "genres": "tropical house",
+        "link": "https://open.spotify.com/artist/5rr0CMtvn1p9Be8ICfkTc3"
+    },
+    "Horseshoes": {
+        "followers": 1767,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/0cIVB4MH1nJhx5soIMZeKt"
+    },
+    "Horses on the Beach": {
+        "followers": 1811,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/5Qsg2S6v1X4RGO5J5MHLDu"
+    },
+    "Dead Horses": {
+        "followers": 23483,
+        "genres": "americana",
+        "link": "https://open.spotify.com/artist/4dcU7cmzO3GECQGSKwl92z"
+    },
+    "I Break Horses": {
+        "followers": 30479,
+        "genres": "dream pop, shoegaze, chillwave",
+        "link": "https://open.spotify.com/artist/1H58rS29XotmFJWT3KCnl0"
+    },
+    "Nine Horses": {
+        "followers": 11736,
+        "genres": "art pop, art rock",
+        "link": "https://open.spotify.com/artist/6W2RohwWscpC1V3Iu4Z34o"
+    },
+    "Horseshoes & Hand Grenades": {
+        "followers": 18490,
+        "genres": "bluegrass, newgrass",
+        "link": "https://open.spotify.com/artist/4nl7okSNAZuu9DWr9jkzSs"
+    },
+    "Faster Horses": {
+        "followers": 5553,
+        "genres": "hard house",
+        "link": "https://open.spotify.com/artist/3LpHT7su9Y4DLfV6NCfZKZ"
+    },
+    "WILD HORSES": {
+        "followers": 10452,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/5uUudUq1Ignnm2v3BMX88D"
+    },
+    "A Thousand Horses": {
+        "followers": 78321,
+        "genres": "country, country rock, southern rock",
+        "link": "https://open.spotify.com/artist/55RI2GNCfyXr0f14uIdhwd"
+    },
+    "Hortense Ullrich": {
+        "followers": 3091,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/5djHyYi2zaEaikpC7mZHcv"
+    },
+    "The Heavy Horses": {
+        "followers": 19067,
+        "genres": "southern gothic",
+        "link": "https://open.spotify.com/artist/2BBQh3k8lxxmPEmB6RkHtj"
+    },
+    "Runaway Horses": {
+        "followers": 438,
+        "genres": "ambient, dark ambient",
+        "link": "https://open.spotify.com/artist/1lHNqvzVo8By9u0C0pLwlh"
+    },
+    "Horens Stalbe": {
+        "followers": 133,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/1el9n4RafRlBufvBxyRYYR"
+    },
+    "Whyte Horses": {
+        "followers": 9603,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/67tGvTTG36JaxuJ0UBkMzu"
+    },
+    "Peter Hollens": {
+        "followers": 312277,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ"
+    },
+    "Hortense Ellis": {
+        "followers": 11381,
+        "genres": "rocksteady, lovers rock, reggae, roots reggae, ska, dub",
+        "link": "https://open.spotify.com/artist/3rZYrTkyrwz1CiW09bfLE2"
+    },
+    "Hortense de Beauharnais": {
+        "followers": 455,
+        "genres": "hard techno",
+        "link": "https://open.spotify.com/artist/6dwoHBXfXApma5YaoM2vE3"
+    },
+    "NOAH": {
+        "followers": 51603,
+        "genres": "dansk pop, dansktop",
+        "link": "https://open.spotify.com/artist/1M0dufGcezQSWNroSSQcK5"
+    },
+    "Johnny Madsen": {
+        "followers": 35062,
+        "genres": "dansktop, dansk pop",
+        "link": "https://open.spotify.com/artist/6vxJe361JSKmxXcI8uJpyM"
+    },
+    "Børnemusik Dyrene": {
+        "followers": 2701,
+        "genres": "children's music, christmas",
+        "link": "https://open.spotify.com/artist/3EH8nM28K1AmsOmZX7YqwR"
+    },
+    "Gasolin'": {
+        "followers": 126550,
+        "genres": "dansktop, dansk pop",
+        "link": "https://open.spotify.com/artist/0e7UgnX6ObqqX5EcMeuA0E"
+    },
+    "Børne Musen": {
+        "followers": 426,
+        "genres": "christmas, children's music",
+        "link": "https://open.spotify.com/artist/6S7T4MwL9fHVgJ8P06ZdBy"
+    },
+    "Faza": {
+        "followers": 4868,
+        "genres": "dansk rap, dansktop, dansk pop",
+        "link": "https://open.spotify.com/artist/0hkBz0U3f8R7BUbQcROEmR"
+    },
+    "MellemFingaMuzik": {
+        "followers": 42980,
+        "genres": "dansk rap, dansk pop",
+        "link": "https://open.spotify.com/artist/6aAQxKW3u9K01sGfdMm5DD"
+    },
+    "Sleiman": {
+        "followers": 28194,
+        "genres": "dansk rap, dansk pop",
+        "link": "https://open.spotify.com/artist/2HTE5rhkzmNb4IiGrop13q"
+    },
+    "ATYPISK": {
+        "followers": 44321,
+        "genres": "dansk rap, dansk pop",
+        "link": "https://open.spotify.com/artist/3L1jDbMK9J4Rd6XVv0KDjS"
+    },
+    "Merro8": {
+        "followers": 19720,
+        "genres": "dansk rap, dansk pop, dansktop",
+        "link": "https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc"
+    },
+    "Carmon": {
+        "followers": 39648,
+        "genres": "dansk rap, dansk pop, dansktop",
+        "link": "https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv"
+    },
+    "WESTA": {
+        "followers": 2628,
+        "genres": "dansk rap, dansktop",
+        "link": "https://open.spotify.com/artist/0GH52FVEqAU8uWFlPUofqb"
+    },
+    "Karl William": {
+        "followers": 25180,
+        "genres": "dansk pop, dansktop, dansk rap",
+        "link": "https://open.spotify.com/artist/71bX2v2nDPLqlMmFzV5CjP"
+    },
+    "Zuloo": {
+        "followers": 14135,
+        "genres": "dansk rap, dansktop, dansk pop",
+        "link": "https://open.spotify.com/artist/5Eb9Tyd8uGdju7tI8FPQXr"
+    },
+    "Outlandish": {
+        "followers": 94443,
+        "genres": "dansk pop",
+        "link": "https://open.spotify.com/artist/5tqMW5dSAlvh0GvgD3XfDy"
+    },
+    "LAY": {
+        "followers": 3715,
+        "genres": "dansk rap, dansk pop, dansktop",
+        "link": "https://open.spotify.com/artist/1n8Fd2279g0K5EPnxPc7J0"
+    },
+    "Marstein": {
+        "followers": 42590,
+        "genres": "norwegian hip hop, norwegian pop",
+        "link": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
+    },
+    "Pede B": {
+        "followers": 21482,
+        "genres": "dansk rap, dansktop, dansk pop",
+        "link": "https://open.spotify.com/artist/05X5qdeeGgBQe115bTNlWu"
+    },
+    "USO": {
+        "followers": 39855,
+        "genres": "dansk rap, dansk pop",
+        "link": "https://open.spotify.com/artist/3GGuPP6lGhVCYBFsqQfIom"
+    },
+    "Troo.L.S": {
+        "followers": 4242,
+        "genres": "dansk rap, dansktop",
+        "link": "https://open.spotify.com/artist/0X7S9BiCFjGRK3U6lazy2J"
+    },
+    "Xabski": {
+        "followers": 10146,
+        "genres": "dansk rap, dansk pop",
+        "link": "https://open.spotify.com/artist/4gf1mGm7j8ELBFpR5CF1YF"
+    },
+    "Larry": {
+        "followers": 19980,
+        "genres": "dansk rap, dansk pop",
+        "link": "https://open.spotify.com/artist/2ws8pkPraOgD2gzMM6hUsh"
+    },
+    "Mowgli": {
+        "followers": 15114,
+        "genres": "dansk rap, dansk pop",
+        "link": "https://open.spotify.com/artist/1dMKCVDiKj96gvK3Agana5"
+    },
+    "Malk De Koijn": {
+        "followers": 41408,
+        "genres": "dansk rap, dansktop",
+        "link": "https://open.spotify.com/artist/5WvYsVV3jtztF1kx86Y0yS"
+    },
+    "AIBANGERZ.DK": {
+        "followers": 381,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/7bXCri92ku6FQc2t4GWFwS"
+    },
+    "Jokeren": {
+        "followers": 20644,
+        "genres": "dansk rap, dansk pop, dansktop",
+        "link": "https://open.spotify.com/artist/6lpXwObstUyC9XqZb2NLPJ"
+    },
+    "Hvid Sjokolade": {
+        "followers": 5782,
+        "genres": "dansk rap, dansktop",
+        "link": "https://open.spotify.com/artist/5fSh69xEX5cVtnZvA5RTVa"
+    },
+    "Niarn": {
+        "followers": 32236,
+        "genres": "dansk rap, dansk pop",
+        "link": "https://open.spotify.com/artist/3Y5DrePVX41yXqnaA1JDIo"
+    },
+    "ai.danskmusik": {
+        "followers": 155,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/68Z1YLMa3NxtYPC6RxB1rK"
+    },
+    "LIGA": {
+        "followers": 11999,
+        "genres": "dansk pop, dansktop",
+        "link": "https://open.spotify.com/artist/6booSDXMipeW7NHm4ABRZr"
+    },
+    "Jinks": {
+        "followers": 478,
+        "genres": "dansk pop, dansk rap",
+        "link": "https://open.spotify.com/artist/6BFgKLLDXBIm47jNjpzYms"
+    },
+    "Thor Farlov": {
+        "followers": 23652,
+        "genres": "dansk pop, dansk rap, dansktop",
+        "link": "https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X"
+    },
+    "Lord Siva": {
+        "followers": 39065,
+        "genres": "dansk pop, dansk rap, dansktop",
+        "link": "https://open.spotify.com/artist/5SwsSD9zyWaWeVyK9qIW9l"
+    },
+    "Luko": {
+        "followers": 404,
+        "genres": "dansk rap, dansktop, dansk pop",
+        "link": "https://open.spotify.com/artist/0uGKxIisbdsSto48OwAa7I"
+    },
+    "FABRÄK": {
+        "followers": 7483,
+        "genres": "dansk pop, dansk rap, dansktop",
+        "link": "https://open.spotify.com/artist/1EhjKyONmOvWHQuGANLcU8"
+    },
+    "Jooks": {
+        "followers": 5842,
+        "genres": "dansk rap, dansk pop, dansktop",
+        "link": "https://open.spotify.com/artist/5OEswjneEc06Bltc6wE0wQ"
+    },
+    "Nixen": {
+        "followers": 4955,
+        "genres": "dansk rap",
+        "link": "https://open.spotify.com/artist/7BurrgZlDYQq21aRqKgHtZ"
+    },
+    "Edo6k": {
+        "followers": 1168,
+        "genres": "dansk rap, dansk pop",
+        "link": "https://open.spotify.com/artist/1OyJnaSDsPqfU4Y1T7AcNa"
+    },
+    "S1": {
+        "followers": 3476,
+        "genres": "dansk rap",
+        "link": "https://open.spotify.com/artist/04CctwCyNzsVAMMqwKLEpX"
+    },
+    "Volkan": {
+        "followers": 8966,
+        "genres": "dansk rap, dansk pop",
+        "link": "https://open.spotify.com/artist/0bIoVDzI4BefNfAQid4nox"
+    },
+    "Nordic Jazz Club": {
+        "followers": 58,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/6bhVta6lMjc42RSCEUC9vF"
+    },
+    "Nordic Rain": {
+        "followers": 660,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/6c2zaxb47VSieJR0wLDLAg"
+    },
+    "Coucheron": {
+        "followers": 11083,
+        "genres": "russelåter, norwegian hip hop, norwegian pop",
+        "link": "https://open.spotify.com/artist/6ly2Z6h9dOerORbK1l2N8D"
+    },
+    "Nordic Brave House": {
+        "followers": 887,
+        "genres": "epadunk",
+        "link": "https://open.spotify.com/artist/0CVdI90FSc2KH68L8KapyN"
+    },
+    "Danny & the Veetos": {
+        "followers": 1715,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/3p3QnEOeYSwnzKNy5QrjDg"
+    },
+    "Nordic Pulse": {
+        "followers": 556,
+        "genres": "neoclassical",
+        "link": "https://open.spotify.com/artist/1kmYLIvqkvkVJMy1KeHG4l"
+    },
+    "Nordic Orphan": {
+        "followers": 17,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/68BlxGA44F4z6BTowr7Ch1"
+    },
+    "Jonathan Snipes": {
+        "followers": 2880,
+        "genres": "experimental hip hop",
+        "link": "https://open.spotify.com/artist/5v69lcKunkvGk1SimYwL0M"
+    },
+    "Manne": {
+        "followers": 508,
+        "genres": "norwegian hip hop",
+        "link": "https://open.spotify.com/artist/1ee0UwLqXFcb58xFPLT4JP"
+    },
+    "William Hutson": {
+        "followers": 460,
+        "genres": "experimental hip hop",
+        "link": "https://open.spotify.com/artist/709RUroHgigfxfOrPwVDAm"
+    },
+    "Nordic Spa Music": {
+        "followers": 158,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/000g1xoERW2wrJusJdfBpf"
+    },
+    "Nordic Recorderduo": {
+        "followers": 10,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/25QYHysM2r7HNVcTNXqPa3"
+    },
+    "Nordic Spirit": {
+        "followers": 93,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/1j6E121QqRBgfyJAikgV30"
+    },
+    "NORDIC NATURE": {
+        "followers": 145,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/4DhwNzIaGzEYtgJp4t9990"
+    },
+    "Nordic Daughter": {
+        "followers": 1839,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/4rDydOYVgiuL2gu0B1vEZg"
+    },
+    "Anthony Lledo": {
+        "followers": 709,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/5YSm6n8f4YSINvBtMuGys3"
+    },
+    "Norick Rapper School": {
+        "followers": 469,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/3ENqwdJ3sZtu1wghpY8rp9"
+    },
+    "Triinu Taul": {
+        "followers": 349,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/7KboG9C6oLIEtghpDMzqMr"
+    },
+    "Walmoods": {
+        "followers": 1060,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/4B53ZdPG7X8UrnLQB1gFBZ"
+    },
+    "Crawly": {
+        "followers": 1864,
+        "genres": "emo rap",
+        "link": "https://open.spotify.com/artist/6zQ2Dzlyli3ph6sHiXRuG0"
+    },
+    "Robert Bruckmayer": {
+        "followers": 299,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/6KMvgVppREtETngF7mpPZx"
+    },
+    "Hudobná skupina NORDIC": {
+        "followers": 285,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/1vaf2hEOxonvqpzswlgksa"
+    },
+    "ICEKIID": {
+        "followers": 117611,
+        "genres": "dansk rap, dansk pop, dansktop",
+        "link": "https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt"
+    },
+    "wicky": {
+        "followers": 4791,
+        "genres": "dansk rap, dansktop",
+        "link": "https://open.spotify.com/artist/79ky6ZBdwtfcMNf2LqRzvP"
+    },
+    "Rune Rask": {
+        "followers": 10035,
+        "genres": "dansk rap, dansk pop, dansktop",
+        "link": "https://open.spotify.com/artist/3zuy1LOMq0y8aHZn4Ogax0"
+    },
+    "ZK": {
+        "followers": 33325,
+        "genres": "dansk rap, dansk pop",
+        "link": "https://open.spotify.com/artist/4uvOZHqwKYuWz1ywTBN5En"
+    },
+    "HEDEGAARD": {
+        "followers": 103158,
+        "genres": "g-house",
+        "link": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+    },
+    "B.O.C": {
+        "followers": 5801,
+        "genres": "dansk rap, dansk pop, dansktop",
+        "link": "https://open.spotify.com/artist/2X22Hm97hQA8mFjSrn2foA"
+    },
+    "Fouli": {
+        "followers": 32980,
+        "genres": "dansk rap, dansk pop",
+        "link": "https://open.spotify.com/artist/1IWMpdsWQeTckTQSGVNj8N"
+    },
+    "ZUUZ": {
+        "followers": 7800,
+        "genres": "dansk rap, dansk pop",
+        "link": "https://open.spotify.com/artist/0sgVdVG2hRMx0wAkH023cx"
+    },
+    "Smøgmænd": {
+        "followers": 2006,
+        "genres": "dansk rap, dansktop",
+        "link": "https://open.spotify.com/artist/2PKZDTNUlvKmC8LfisVfXg"
+    },
+    "Bo Evers": {
+        "followers": 5758,
+        "genres": "dansk pop, dansktop",
+        "link": "https://open.spotify.com/artist/152pIix1rcyk7CTB6uTWHt"
+    },
+    "Vera": {
+        "followers": 7696,
+        "genres": "dansk pop",
+        "link": "https://open.spotify.com/artist/0Nj6EN5mur7EJHl0aZuGP7"
+    },
+    "Stig Rossen": {
+        "followers": 15391,
+        "genres": "dansktop",
+        "link": "https://open.spotify.com/artist/2z8iTQwzBF1lbIN2oUkdIP"
+    },
+    "Maria Lucia": {
+        "followers": 1920,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/3jgKmvVmEnJCEBX1VtdLnr"
+    },
+    "Åh Abe!": {
+        "followers": 277,
+        "genres": "children's music, dansk pop, dansktop",
+        "link": "https://open.spotify.com/artist/74AhHyVIofz4MRKbcigudT"
+    },
+    "Kaj og Andrea": {
+        "followers": 5899,
+        "genres": "children's music",
+        "link": "https://open.spotify.com/artist/1QRod4LR53Ouoq8XoGdF4Q"
+    },
+    "Musica Ficta": {
+        "followers": 755,
+        "genres": "medieval, choral, requiem, gregorian chant",
+        "link": "https://open.spotify.com/artist/5WKv8DLIGTPZP1QRaY6Uau"
+    },
+    "Hr. Skæg": {
+        "followers": 6274,
+        "genres": "children's music",
+        "link": "https://open.spotify.com/artist/23GZs1Oy2ZoNLDO1zW9xK2"
+    },
+    "Sigurd Barrett": {
+        "followers": 10085,
+        "genres": "children's music",
+        "link": "https://open.spotify.com/artist/6EN9iGovybDcQZ2NtsqMFd"
+    },
+    "Martin Brygmann": {
+        "followers": 3292,
+        "genres": "christmas",
+        "link": "https://open.spotify.com/artist/1mEjxHmV73X8Nr3HY47n17"
+    },
+    "Onkel Reje": {
+        "followers": 7580,
+        "genres": "children's music",
+        "link": "https://open.spotify.com/artist/7A8nWiAIpTBQrUa46Fs940"
+    },
+    "Børnesange Aben": {
+        "followers": 475,
+        "genres": "christmas, children's music",
+        "link": "https://open.spotify.com/artist/17lAV5H4rD82wYMG6N1rzP"
+    },
+    "Johan Olsen": {
+        "followers": 2458,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/3iYvxketuV7AAPCJuWSDH2"
+    },
+    "Wayz": {
+        "followers": 296,
+        "genres": "dansk rap, dansktop",
+        "link": "https://open.spotify.com/artist/1rw7KCOykqWKjIOL2lONNV"
+    },
+    "Dos Santos": {
+        "followers": 4837,
+        "genres": "dansk pop, dansktop, dansk rap",
+        "link": "https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn"
+    },
+    "Danske Nationalsang Musikkorps": {
+        "followers": 261,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/1jEYY7Znbegjwyk1OQ2RZ1"
+    },
+    "USTABIL": {
+        "followers": 770,
+        "genres": "dansktop, dansk rap",
+        "link": "https://open.spotify.com/artist/3egwzCMsUEiivyXJEApQTu"
+    },
+    "Det kongelige danske Musikkonservatoriums Børnekor": {
+        "followers": 295,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/0IMvy36DVVz1nk4wA9NT8j"
+    },
+    "Lil Mazda": {
+        "followers": 964,
+        "genres": "dansk rap",
+        "link": "https://open.spotify.com/artist/749p7enKoX7x4y2S8sER8J"
+    },
+    "Cheff Records": {
+        "followers": 1853,
+        "genres": "dansk rap, dansk pop, dansktop",
+        "link": "https://open.spotify.com/artist/0i7DYzkG8u0ScquFnDUuvT"
+    },
+    "Albert Dyrlund": {
+        "followers": 20250,
+        "genres": "dansk pop",
+        "link": "https://open.spotify.com/artist/2Q6FSq5L8qxRKODBLpFE5Z"
+    },
+    "Maluda": {
+        "followers": 963,
+        "genres": "dansk rap",
+        "link": "https://open.spotify.com/artist/1vpRVlfxcg61pk5eXbwSR3"
+    },
+    "Texit": {
+        "followers": 629,
+        "genres": "dansk rap",
+        "link": "https://open.spotify.com/artist/3E8TN8HGHcz7Tc7ARdw41G"
+    },
+    "Ataf": {
+        "followers": 3641,
+        "genres": "dansk rap, dansk pop",
+        "link": "https://open.spotify.com/artist/1RCdLXHYzLT5SxFPUY1peL"
+    },
+    "SkyggeSiden": {
+        "followers": 959,
+        "genres": "dansk rap, dansk pop",
+        "link": "https://open.spotify.com/artist/4GXVFdJvKVf859cFNPL2ML"
+    },
+    "Rosa": {
+        "followers": 1100,
+        "genres": "dansk pop, dansktop",
+        "link": "https://open.spotify.com/artist/5RacSDArd3wuqKnWx46sTM"
+    },
+    "BasedBoys": {
+        "followers": 7040,
+        "genres": "dansk pop, dansk rap",
+        "link": "https://open.spotify.com/artist/2FjHRTOXVShERTZlmWjwW7"
+    },
+    "Musikk": {
+        "followers": 1198,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/0BaPS6Ng51Bx4ZxAdpUCH5"
+    },
+    "Bulldogg": {
+        "followers": 235,
+        "genres": "dansk rap",
+        "link": "https://open.spotify.com/artist/5LVfAM3JoLSM2cXSxQqN8U"
+    },
+    "DIRR": {
+        "followers": 182,
+        "genres": "dansk rap",
+        "link": "https://open.spotify.com/artist/0A8HTre5e8rxrBJNRzZ96X"
+    },
+    "Razz": {
+        "followers": 2947,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/3R7AVeohq63QJyhBO0fKJY"
+    },
+    "Landsholdssange": {
+        "followers": 453,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/7tAvtAQT7YBWtbnkYMxoWB"
+    },
+    "Den Kongelige Livgardes Musikkorps": {
+        "followers": 688,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/0tBWw5BJQHXhqnuSanhgGj"
+    },
+    "Dorthe Kollo": {
+        "followers": 2305,
+        "genres": "dansktop, dansk pop",
+        "link": "https://open.spotify.com/artist/4ZdK7Pvq1y4lVGY5Lhm7I8"
+    },
+    "Zira": {
+        "followers": 438,
+        "genres": "dansk rap, dansktop, dansk pop",
+        "link": "https://open.spotify.com/artist/4pJAB4vr5CJYRINQQ8WtfB"
+    },
+    "Figi": {
+        "followers": 1073,
+        "genres": "dansk rap, dansk pop",
+        "link": "https://open.spotify.com/artist/43VE5bWGVooLKe8DXKxO99"
+    },
+    "barejegvarmig": {
+        "followers": 1892,
+        "genres": "dansk rap, dansk pop",
+        "link": "https://open.spotify.com/artist/2jd9z4iry5iB6Ue1pt6HVH"
+    },
+    "Generationgaza": {
+        "followers": 1005,
+        "genres": "dansk rap",
+        "link": "https://open.spotify.com/artist/4iwYA9j3VRNvFiw89POFgc"
+    },
+    "Michael Minelli": {
+        "followers": 79421,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/0E1dRyvTHusqYjhbTm2skL"
+    },
+    "Kuro7": {
+        "followers": 1044,
+        "genres": "dansk rap",
+        "link": "https://open.spotify.com/artist/7heqdcbyihsojz7B4YYRb8"
+    },
+    "Bar Z": {
+        "followers": 1523,
+        "genres": "dansk rap, dansk pop",
+        "link": "https://open.spotify.com/artist/36WoVue1J2erQDSd0nNEQk"
+    },
+    "Gigis": {
+        "followers": 16695,
+        "genres": "dansk rap, dansk pop",
+        "link": "https://open.spotify.com/artist/2JPtVnT5s9pasfOlXM6F4o"
+    },
+    "Blanco": {
+        "followers": 236636,
+        "genres": "uk drill, drill, grime, afroswing, uk grime",
+        "link": "https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y"
+    },
+    "KSI": {
+        "followers": 2757702,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z"
+    },
+    "2TMELLOW": {
+        "followers": 588,
+        "genres": "dansk rap",
+        "link": "https://open.spotify.com/artist/5GYJQMZNZFq96fgX75agNX"
+    },
+    "Luqa Dhere": {
+        "followers": 812,
+        "genres": "dansk rap",
+        "link": "https://open.spotify.com/artist/5siqoZNodIfbCqL0POuRJa"
+    },
+    "LEE": {
+        "followers": 2204,
+        "genres": "dansk rap",
+        "link": "https://open.spotify.com/artist/0tQ5b76y1jrXNQ63299Sgv"
+    },
+    "JACKBOYS": {
+        "followers": 1329324,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/7A8S43ryYdbWpJKeHRZRcq"
+    },
+    "Money Musik": {
+        "followers": 56175,
+        "genres": "punjabi hip hop, punjabi pop, bhangra, desi",
+        "link": "https://open.spotify.com/artist/0Y5Wgx4aNU8Jm4T9OxI22o"
+    },
+    "Jesse26": {
+        "followers": 642,
+        "genres": "dansk rap",
+        "link": "https://open.spotify.com/artist/1szDgB4D0LPDiIEwUyMRXj"
+    },
+    "Slipknot": {
+        "followers": 14180482,
+        "genres": "nu metal, metal, alternative metal, rap metal, heavy metal",
+        "link": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+    },
+    "Christina": {
+        "followers": 1605,
+        "genres": "christmas",
+        "link": "https://open.spotify.com/artist/5huUF1XazRSvkFuuJxMjj4"
+    },
+    "Godsmack": {
+        "followers": 3701736,
+        "genres": "alternative metal, nu metal, hard rock, rap metal, metal",
+        "link": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+    },
+    "Chandler Kinney": {
+        "followers": 106340,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/4GsVpISKE79xqOxIrj9FTk"
+    },
+    "USHER": {
+        "followers": 13834611,
+        "genres": "r&b",
+        "link": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+    },
+    "Asta Brix": {
+        "followers": 518,
+        "genres": "dansk pop",
+        "link": "https://open.spotify.com/artist/7jdou2ayaa86lDotGOCwpg"
+    },
+    "CA7RIEL": {
+        "followers": 278508,
+        "genres": "argentine trap",
+        "link": "https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf"
+    },
+    "PRO8L3M": {
+        "followers": 1106634,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/7v49oVVUhvIQG5EK0jkcF7"
+    },
+    "A1 x J1": {
+        "followers": 309233,
+        "genres": "uk drill, drill",
+        "link": "https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy"
+    },
+    "Livingston": {
+        "followers": 909196,
+        "genres": "N/A",
+        "link": "https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ"
+    },
+    "Citybois": {
+        "followers": 36728,
+        "genres": "dansk pop, dansk rap, dansktop",
+        "link": "https://open.spotify.com/artist/2GmsPqiejcB4bPdxJpkCh6"
+    },
+    "Clemens": {
+        "followers": 38654,
+        "genres": "dansk rap, dansk pop",
+        "link": "https://open.spotify.com/artist/6M4RgHnN6u48xM8rbTintP"
+    },
+    "Jimilian": {
+        "followers": 72087,
+        "genres": "dansk rap, dansk pop",
+        "link": "https://open.spotify.com/artist/7wy9Plp8SD5l3LDuJubTcv"
+    },
+    "Molo": {
+        "followers": 42724,
+        "genres": "dansk rap, dansk pop, dansktop",
+        "link": "https://open.spotify.com/artist/3csOC04onTexmX4IHflqID"
+    },
+    "Bette": {
+        "followers": 6442,
+        "genres": "dansk pop, dansktop",
+        "link": "https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27"
+    },
+    "Phlake": {
+        "followers": 67959,
+        "genres": "dansk pop",
+        "link": "https://open.spotify.com/artist/7xSP5ABX7IOegINeUtUVay"
+    },
+    "USSEL": {
+        "followers": 5373,
+        "genres": "dansk pop, dansktop, dansk rap",
+        "link": "https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp"
+    },
+    "Baloosh": {
+        "followers": 30928,
+        "genres": "dansk rap, dansk pop",
+        "link": "https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC"
+    }
+}
